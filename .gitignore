@@ -1,0 +1,18 @@
+# Secrets
+.env
+*.env
+
+# Airflow runtime
+airflow_project/logs/
+airflow_project/plugins/__pycache__/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,43 @@
+﻿room_key,item_id,room_name,category_name,category_url,location_name,seat_name,room_label,is_study_room
+1,221378,AI Center (125),AI Center,/spaces?lid=24208&gid=51008,King Library: AI Center,,AI Center AI Center (125),False
+2,143174,Digital Humanities Center (40),Digital Humanities Center,/spaces?lid=16967&gid=35896,King Library: Digital Humanities Center,,Digital Humanities Center Digital Humanities Center (40),False
+3,143173,IDC/Incubator Space (48),Event Spaces,/spaces?lid=16998&gid=35978,King Library Incubator Space,,Event Spaces IDC/Incubator Space (48),False
+4,9731,Presentation Practice Room,Presentation Practice Room,/reserve/presentation,SJSU Tech Spaces,,Presentation Practice Room Presentation Practice Room,False
+5,71621,225,Public Meeting Rooms,/reserve/public-meeting-rooms,King Library: Public Meeting Rooms,,Public Meeting Room 225,False
+6,71622,255,Public Meeting Rooms,/reserve/public-meeting-rooms,King Library: Public Meeting Rooms,,Public Meeting Room 255,False
+7,55104,Recording Studio,Recording Studio,/reserve/recording-studio,SJSU Tech Spaces,,Recording Studio Recording Studio,False
+8,23241,Raise3D Pro3 - Printer 1,SJSU 3D Printers,/reserve/3d,SJSU Prototyping Lab,,SJSU 3D Printers Raise3D Pro3 - Printer 1,False
+9,23242,Raise3D Pro3 - Printer 2,SJSU 3D Printers,/reserve/3d,SJSU Prototyping Lab,,SJSU 3D Printers Raise3D Pro3 - Printer 2,False
+10,141269,SJSU Poster Printer,SJSU Poster Printer,/reserve/poster-printing,SJSU Prototyping Lab,,SJSU Poster Printer SJSU Poster Printer,False
+11,9736,390,Study Rooms,/reserve/study-rooms,King Library,,Study Room 390,True
+12,9737,392,Study Rooms,/reserve/study-rooms,King Library,,Study Room 392,True
+13,9738,602,Study Rooms,/reserve/study-rooms,King Library,,Study Room 602,True
+14,9739,604,Study Rooms,/reserve/study-rooms,King Library,,Study Room 604,True
+15,9740,606,Study Rooms,/reserve/study-rooms,King Library,,Study Room 606,True
+16,9741,622,Study Rooms,/reserve/study-rooms,King Library,,Study Room 622,True
+17,9742,624,Study Rooms,/reserve/study-rooms,King Library,,Study Room 624,True
+18,9743,626,Study Rooms,/reserve/study-rooms,King Library,,Study Room 626,True
+19,9744,632,Study Rooms,/reserve/study-rooms,King Library,,Study Room 632,True
+20,9745,634,Study Rooms,/reserve/study-rooms,King Library,,Study Room 634,True
+21,9746,662,Study Rooms,/reserve/study-rooms,King Library,,Study Room 662,True
+22,9747,664,Study Rooms,/reserve/study-rooms,King Library,,Study Room 664,True
+23,9748,702,Study Rooms,/reserve/study-rooms,King Library,,Study Room 702,True
+24,9749,704,Study Rooms,/reserve/study-rooms,King Library,,Study Room 704,True
+25,9750,706,Study Rooms,/reserve/study-rooms,King Library,,Study Room 706,True
+26,9751,722,Study Rooms,/reserve/study-rooms,King Library,,Study Room 722,True
+27,9752,724,Study Rooms,/reserve/study-rooms,King Library,,Study Room 724,True
+28,9753,726,Study Rooms,/reserve/study-rooms,King Library,,Study Room 726,True
+29,9754,732,Study Rooms,/reserve/study-rooms,King Library,,Study Room 732,True
+30,9755,734,Study Rooms,/reserve/study-rooms,King Library,,Study Room 734,True
+31,9756,762,Study Rooms,/reserve/study-rooms,King Library,,Study Room 762,True
+32,9757,764,Study Rooms,/reserve/study-rooms,King Library,,Study Room 764,True
+33,111903,802,Study Rooms,/reserve/study-rooms,King Library,,Study Room 802,True
+34,111904,804,Study Rooms,/reserve/study-rooms,King Library,,Study Room 804,True
+35,9759,806,Study Rooms,/reserve/study-rooms,King Library,,Study Room 806,True
+36,9760,822,Study Rooms,/reserve/study-rooms,King Library,,Study Room 822,True
+37,9761,824,Study Rooms,/reserve/study-rooms,King Library,,Study Room 824,True
+38,9762,826,Study Rooms,/reserve/study-rooms,King Library,,Study Room 826,True
+39,9763,832,Study Rooms,/reserve/study-rooms,King Library,,Study Room 832,True
+40,9764,834,Study Rooms,/reserve/study-rooms,King Library,,Study Room 834,True
+41,9765,862,Study Rooms,/reserve/study-rooms,King Library,,Study Room 862,True
+42,102712,L02,Study Rooms,/reserve/study-rooms,King Library,,Study Room L02,True

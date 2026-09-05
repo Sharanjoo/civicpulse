@@ -1,0 +1,1441 @@
+﻿time_key,time_value,hour_24,hour_12,minute,am_pm,time_label,part_of_day,is_morning,is_afternoon,is_evening,is_late_night
+0,00:00:00,0,12,0,AM,12:00 AM,Late Night,False,False,False,True
+1,00:01:00,0,12,1,AM,12:01 AM,Late Night,False,False,False,True
+2,00:02:00,0,12,2,AM,12:02 AM,Late Night,False,False,False,True
+3,00:03:00,0,12,3,AM,12:03 AM,Late Night,False,False,False,True
+4,00:04:00,0,12,4,AM,12:04 AM,Late Night,False,False,False,True
+5,00:05:00,0,12,5,AM,12:05 AM,Late Night,False,False,False,True
+6,00:06:00,0,12,6,AM,12:06 AM,Late Night,False,False,False,True
+7,00:07:00,0,12,7,AM,12:07 AM,Late Night,False,False,False,True
+8,00:08:00,0,12,8,AM,12:08 AM,Late Night,False,False,False,True
+9,00:09:00,0,12,9,AM,12:09 AM,Late Night,False,False,False,True
+10,00:10:00,0,12,10,AM,12:10 AM,Late Night,False,False,False,True
+11,00:11:00,0,12,11,AM,12:11 AM,Late Night,False,False,False,True
+12,00:12:00,0,12,12,AM,12:12 AM,Late Night,False,False,False,True
+13,00:13:00,0,12,13,AM,12:13 AM,Late Night,False,False,False,True
+14,00:14:00,0,12,14,AM,12:14 AM,Late Night,False,False,False,True
+15,00:15:00,0,12,15,AM,12:15 AM,Late Night,False,False,False,True
+16,00:16:00,0,12,16,AM,12:16 AM,Late Night,False,False,False,True
+17,00:17:00,0,12,17,AM,12:17 AM,Late Night,False,False,False,True
+18,00:18:00,0,12,18,AM,12:18 AM,Late Night,False,False,False,True
+19,00:19:00,0,12,19,AM,12:19 AM,Late Night,False,False,False,True
+20,00:20:00,0,12,20,AM,12:20 AM,Late Night,False,False,False,True
+21,00:21:00,0,12,21,AM,12:21 AM,Late Night,False,False,False,True
+22,00:22:00,0,12,22,AM,12:22 AM,Late Night,False,False,False,True
+23,00:23:00,0,12,23,AM,12:23 AM,Late Night,False,False,False,True
+24,00:24:00,0,12,24,AM,12:24 AM,Late Night,False,False,False,True
+25,00:25:00,0,12,25,AM,12:25 AM,Late Night,False,False,False,True
+26,00:26:00,0,12,26,AM,12:26 AM,Late Night,False,False,False,True
+27,00:27:00,0,12,27,AM,12:27 AM,Late Night,False,False,False,True
+28,00:28:00,0,12,28,AM,12:28 AM,Late Night,False,False,False,True
+29,00:29:00,0,12,29,AM,12:29 AM,Late Night,False,False,False,True
+30,00:30:00,0,12,30,AM,12:30 AM,Late Night,False,False,False,True
+31,00:31:00,0,12,31,AM,12:31 AM,Late Night,False,False,False,True
+32,00:32:00,0,12,32,AM,12:32 AM,Late Night,False,False,False,True
+33,00:33:00,0,12,33,AM,12:33 AM,Late Night,False,False,False,True
+34,00:34:00,0,12,34,AM,12:34 AM,Late Night,False,False,False,True
+35,00:35:00,0,12,35,AM,12:35 AM,Late Night,False,False,False,True
+36,00:36:00,0,12,36,AM,12:36 AM,Late Night,False,False,False,True
+37,00:37:00,0,12,37,AM,12:37 AM,Late Night,False,False,False,True
+38,00:38:00,0,12,38,AM,12:38 AM,Late Night,False,False,False,True
+39,00:39:00,0,12,39,AM,12:39 AM,Late Night,False,False,False,True
+40,00:40:00,0,12,40,AM,12:40 AM,Late Night,False,False,False,True
+41,00:41:00,0,12,41,AM,12:41 AM,Late Night,False,False,False,True
+42,00:42:00,0,12,42,AM,12:42 AM,Late Night,False,False,False,True
+43,00:43:00,0,12,43,AM,12:43 AM,Late Night,False,False,False,True
+44,00:44:00,0,12,44,AM,12:44 AM,Late Night,False,False,False,True
+45,00:45:00,0,12,45,AM,12:45 AM,Late Night,False,False,False,True
+46,00:46:00,0,12,46,AM,12:46 AM,Late Night,False,False,False,True
+47,00:47:00,0,12,47,AM,12:47 AM,Late Night,False,False,False,True
+48,00:48:00,0,12,48,AM,12:48 AM,Late Night,False,False,False,True
+49,00:49:00,0,12,49,AM,12:49 AM,Late Night,False,False,False,True
+50,00:50:00,0,12,50,AM,12:50 AM,Late Night,False,False,False,True
+51,00:51:00,0,12,51,AM,12:51 AM,Late Night,False,False,False,True
+52,00:52:00,0,12,52,AM,12:52 AM,Late Night,False,False,False,True
+53,00:53:00,0,12,53,AM,12:53 AM,Late Night,False,False,False,True
+54,00:54:00,0,12,54,AM,12:54 AM,Late Night,False,False,False,True
+55,00:55:00,0,12,55,AM,12:55 AM,Late Night,False,False,False,True
+56,00:56:00,0,12,56,AM,12:56 AM,Late Night,False,False,False,True
+57,00:57:00,0,12,57,AM,12:57 AM,Late Night,False,False,False,True
+58,00:58:00,0,12,58,AM,12:58 AM,Late Night,False,False,False,True
+59,00:59:00,0,12,59,AM,12:59 AM,Late Night,False,False,False,True
+100,01:00:00,1,1,0,AM,1:00 AM,Late Night,False,False,False,True
+101,01:01:00,1,1,1,AM,1:01 AM,Late Night,False,False,False,True
+102,01:02:00,1,1,2,AM,1:02 AM,Late Night,False,False,False,True
+103,01:03:00,1,1,3,AM,1:03 AM,Late Night,False,False,False,True
+104,01:04:00,1,1,4,AM,1:04 AM,Late Night,False,False,False,True
+105,01:05:00,1,1,5,AM,1:05 AM,Late Night,False,False,False,True
+106,01:06:00,1,1,6,AM,1:06 AM,Late Night,False,False,False,True
+107,01:07:00,1,1,7,AM,1:07 AM,Late Night,False,False,False,True
+108,01:08:00,1,1,8,AM,1:08 AM,Late Night,False,False,False,True
+109,01:09:00,1,1,9,AM,1:09 AM,Late Night,False,False,False,True
+110,01:10:00,1,1,10,AM,1:10 AM,Late Night,False,False,False,True
+111,01:11:00,1,1,11,AM,1:11 AM,Late Night,False,False,False,True
+112,01:12:00,1,1,12,AM,1:12 AM,Late Night,False,False,False,True
+113,01:13:00,1,1,13,AM,1:13 AM,Late Night,False,False,False,True
+114,01:14:00,1,1,14,AM,1:14 AM,Late Night,False,False,False,True
+115,01:15:00,1,1,15,AM,1:15 AM,Late Night,False,False,False,True
+116,01:16:00,1,1,16,AM,1:16 AM,Late Night,False,False,False,True
+117,01:17:00,1,1,17,AM,1:17 AM,Late Night,False,False,False,True
+118,01:18:00,1,1,18,AM,1:18 AM,Late Night,False,False,False,True
+119,01:19:00,1,1,19,AM,1:19 AM,Late Night,False,False,False,True
+120,01:20:00,1,1,20,AM,1:20 AM,Late Night,False,False,False,True
+121,01:21:00,1,1,21,AM,1:21 AM,Late Night,False,False,False,True
+122,01:22:00,1,1,22,AM,1:22 AM,Late Night,False,False,False,True
+123,01:23:00,1,1,23,AM,1:23 AM,Late Night,False,False,False,True
+124,01:24:00,1,1,24,AM,1:24 AM,Late Night,False,False,False,True
+125,01:25:00,1,1,25,AM,1:25 AM,Late Night,False,False,False,True
+126,01:26:00,1,1,26,AM,1:26 AM,Late Night,False,False,False,True
+127,01:27:00,1,1,27,AM,1:27 AM,Late Night,False,False,False,True
+128,01:28:00,1,1,28,AM,1:28 AM,Late Night,False,False,False,True
+129,01:29:00,1,1,29,AM,1:29 AM,Late Night,False,False,False,True
+130,01:30:00,1,1,30,AM,1:30 AM,Late Night,False,False,False,True
+131,01:31:00,1,1,31,AM,1:31 AM,Late Night,False,False,False,True
+132,01:32:00,1,1,32,AM,1:32 AM,Late Night,False,False,False,True
+133,01:33:00,1,1,33,AM,1:33 AM,Late Night,False,False,False,True
+134,01:34:00,1,1,34,AM,1:34 AM,Late Night,False,False,False,True
+135,01:35:00,1,1,35,AM,1:35 AM,Late Night,False,False,False,True
+136,01:36:00,1,1,36,AM,1:36 AM,Late Night,False,False,False,True
+137,01:37:00,1,1,37,AM,1:37 AM,Late Night,False,False,False,True
+138,01:38:00,1,1,38,AM,1:38 AM,Late Night,False,False,False,True
+139,01:39:00,1,1,39,AM,1:39 AM,Late Night,False,False,False,True
+140,01:40:00,1,1,40,AM,1:40 AM,Late Night,False,False,False,True
+141,01:41:00,1,1,41,AM,1:41 AM,Late Night,False,False,False,True
+142,01:42:00,1,1,42,AM,1:42 AM,Late Night,False,False,False,True
+143,01:43:00,1,1,43,AM,1:43 AM,Late Night,False,False,False,True
+144,01:44:00,1,1,44,AM,1:44 AM,Late Night,False,False,False,True
+145,01:45:00,1,1,45,AM,1:45 AM,Late Night,False,False,False,True
+146,01:46:00,1,1,46,AM,1:46 AM,Late Night,False,False,False,True
+147,01:47:00,1,1,47,AM,1:47 AM,Late Night,False,False,False,True
+148,01:48:00,1,1,48,AM,1:48 AM,Late Night,False,False,False,True
+149,01:49:00,1,1,49,AM,1:49 AM,Late Night,False,False,False,True
+150,01:50:00,1,1,50,AM,1:50 AM,Late Night,False,False,False,True
+151,01:51:00,1,1,51,AM,1:51 AM,Late Night,False,False,False,True
+152,01:52:00,1,1,52,AM,1:52 AM,Late Night,False,False,False,True
+153,01:53:00,1,1,53,AM,1:53 AM,Late Night,False,False,False,True
+154,01:54:00,1,1,54,AM,1:54 AM,Late Night,False,False,False,True
+155,01:55:00,1,1,55,AM,1:55 AM,Late Night,False,False,False,True
+156,01:56:00,1,1,56,AM,1:56 AM,Late Night,False,False,False,True
+157,01:57:00,1,1,57,AM,1:57 AM,Late Night,False,False,False,True
+158,01:58:00,1,1,58,AM,1:58 AM,Late Night,False,False,False,True
+159,01:59:00,1,1,59,AM,1:59 AM,Late Night,False,False,False,True
+200,02:00:00,2,2,0,AM,2:00 AM,Late Night,False,False,False,True
+201,02:01:00,2,2,1,AM,2:01 AM,Late Night,False,False,False,True
+202,02:02:00,2,2,2,AM,2:02 AM,Late Night,False,False,False,True
+203,02:03:00,2,2,3,AM,2:03 AM,Late Night,False,False,False,True
+204,02:04:00,2,2,4,AM,2:04 AM,Late Night,False,False,False,True
+205,02:05:00,2,2,5,AM,2:05 AM,Late Night,False,False,False,True
+206,02:06:00,2,2,6,AM,2:06 AM,Late Night,False,False,False,True
+207,02:07:00,2,2,7,AM,2:07 AM,Late Night,False,False,False,True
+208,02:08:00,2,2,8,AM,2:08 AM,Late Night,False,False,False,True
+209,02:09:00,2,2,9,AM,2:09 AM,Late Night,False,False,False,True
+210,02:10:00,2,2,10,AM,2:10 AM,Late Night,False,False,False,True
+211,02:11:00,2,2,11,AM,2:11 AM,Late Night,False,False,False,True
+212,02:12:00,2,2,12,AM,2:12 AM,Late Night,False,False,False,True
+213,02:13:00,2,2,13,AM,2:13 AM,Late Night,False,False,False,True
+214,02:14:00,2,2,14,AM,2:14 AM,Late Night,False,False,False,True
+215,02:15:00,2,2,15,AM,2:15 AM,Late Night,False,False,False,True
+216,02:16:00,2,2,16,AM,2:16 AM,Late Night,False,False,False,True
+217,02:17:00,2,2,17,AM,2:17 AM,Late Night,False,False,False,True
+218,02:18:00,2,2,18,AM,2:18 AM,Late Night,False,False,False,True
+219,02:19:00,2,2,19,AM,2:19 AM,Late Night,False,False,False,True
+220,02:20:00,2,2,20,AM,2:20 AM,Late Night,False,False,False,True
+221,02:21:00,2,2,21,AM,2:21 AM,Late Night,False,False,False,True
+222,02:22:00,2,2,22,AM,2:22 AM,Late Night,False,False,False,True
+223,02:23:00,2,2,23,AM,2:23 AM,Late Night,False,False,False,True
+224,02:24:00,2,2,24,AM,2:24 AM,Late Night,False,False,False,True
+225,02:25:00,2,2,25,AM,2:25 AM,Late Night,False,False,False,True
+226,02:26:00,2,2,26,AM,2:26 AM,Late Night,False,False,False,True
+227,02:27:00,2,2,27,AM,2:27 AM,Late Night,False,False,False,True
+228,02:28:00,2,2,28,AM,2:28 AM,Late Night,False,False,False,True
+229,02:29:00,2,2,29,AM,2:29 AM,Late Night,False,False,False,True
+230,02:30:00,2,2,30,AM,2:30 AM,Late Night,False,False,False,True
+231,02:31:00,2,2,31,AM,2:31 AM,Late Night,False,False,False,True
+232,02:32:00,2,2,32,AM,2:32 AM,Late Night,False,False,False,True
+233,02:33:00,2,2,33,AM,2:33 AM,Late Night,False,False,False,True
+234,02:34:00,2,2,34,AM,2:34 AM,Late Night,False,False,False,True
+235,02:35:00,2,2,35,AM,2:35 AM,Late Night,False,False,False,True
+236,02:36:00,2,2,36,AM,2:36 AM,Late Night,False,False,False,True
+237,02:37:00,2,2,37,AM,2:37 AM,Late Night,False,False,False,True
+238,02:38:00,2,2,38,AM,2:38 AM,Late Night,False,False,False,True
+239,02:39:00,2,2,39,AM,2:39 AM,Late Night,False,False,False,True
+240,02:40:00,2,2,40,AM,2:40 AM,Late Night,False,False,False,True
+241,02:41:00,2,2,41,AM,2:41 AM,Late Night,False,False,False,True
+242,02:42:00,2,2,42,AM,2:42 AM,Late Night,False,False,False,True
+243,02:43:00,2,2,43,AM,2:43 AM,Late Night,False,False,False,True
+244,02:44:00,2,2,44,AM,2:44 AM,Late Night,False,False,False,True
+245,02:45:00,2,2,45,AM,2:45 AM,Late Night,False,False,False,True
+246,02:46:00,2,2,46,AM,2:46 AM,Late Night,False,False,False,True
+247,02:47:00,2,2,47,AM,2:47 AM,Late Night,False,False,False,True
+248,02:48:00,2,2,48,AM,2:48 AM,Late Night,False,False,False,True
+249,02:49:00,2,2,49,AM,2:49 AM,Late Night,False,False,False,True
+250,02:50:00,2,2,50,AM,2:50 AM,Late Night,False,False,False,True
+251,02:51:00,2,2,51,AM,2:51 AM,Late Night,False,False,False,True
+252,02:52:00,2,2,52,AM,2:52 AM,Late Night,False,False,False,True
+253,02:53:00,2,2,53,AM,2:53 AM,Late Night,False,False,False,True
+254,02:54:00,2,2,54,AM,2:54 AM,Late Night,False,False,False,True
+255,02:55:00,2,2,55,AM,2:55 AM,Late Night,False,False,False,True
+256,02:56:00,2,2,56,AM,2:56 AM,Late Night,False,False,False,True
+257,02:57:00,2,2,57,AM,2:57 AM,Late Night,False,False,False,True
+258,02:58:00,2,2,58,AM,2:58 AM,Late Night,False,False,False,True
+259,02:59:00,2,2,59,AM,2:59 AM,Late Night,False,False,False,True
+300,03:00:00,3,3,0,AM,3:00 AM,Late Night,False,False,False,True
+301,03:01:00,3,3,1,AM,3:01 AM,Late Night,False,False,False,True
+302,03:02:00,3,3,2,AM,3:02 AM,Late Night,False,False,False,True
+303,03:03:00,3,3,3,AM,3:03 AM,Late Night,False,False,False,True
+304,03:04:00,3,3,4,AM,3:04 AM,Late Night,False,False,False,True
+305,03:05:00,3,3,5,AM,3:05 AM,Late Night,False,False,False,True
+306,03:06:00,3,3,6,AM,3:06 AM,Late Night,False,False,False,True
+307,03:07:00,3,3,7,AM,3:07 AM,Late Night,False,False,False,True
+308,03:08:00,3,3,8,AM,3:08 AM,Late Night,False,False,False,True
+309,03:09:00,3,3,9,AM,3:09 AM,Late Night,False,False,False,True
+310,03:10:00,3,3,10,AM,3:10 AM,Late Night,False,False,False,True
+311,03:11:00,3,3,11,AM,3:11 AM,Late Night,False,False,False,True
+312,03:12:00,3,3,12,AM,3:12 AM,Late Night,False,False,False,True
+313,03:13:00,3,3,13,AM,3:13 AM,Late Night,False,False,False,True
+314,03:14:00,3,3,14,AM,3:14 AM,Late Night,False,False,False,True
+315,03:15:00,3,3,15,AM,3:15 AM,Late Night,False,False,False,True
+316,03:16:00,3,3,16,AM,3:16 AM,Late Night,False,False,False,True
+317,03:17:00,3,3,17,AM,3:17 AM,Late Night,False,False,False,True
+318,03:18:00,3,3,18,AM,3:18 AM,Late Night,False,False,False,True
+319,03:19:00,3,3,19,AM,3:19 AM,Late Night,False,False,False,True
+320,03:20:00,3,3,20,AM,3:20 AM,Late Night,False,False,False,True
+321,03:21:00,3,3,21,AM,3:21 AM,Late Night,False,False,False,True
+322,03:22:00,3,3,22,AM,3:22 AM,Late Night,False,False,False,True
+323,03:23:00,3,3,23,AM,3:23 AM,Late Night,False,False,False,True
+324,03:24:00,3,3,24,AM,3:24 AM,Late Night,False,False,False,True
+325,03:25:00,3,3,25,AM,3:25 AM,Late Night,False,False,False,True
+326,03:26:00,3,3,26,AM,3:26 AM,Late Night,False,False,False,True
+327,03:27:00,3,3,27,AM,3:27 AM,Late Night,False,False,False,True
+328,03:28:00,3,3,28,AM,3:28 AM,Late Night,False,False,False,True
+329,03:29:00,3,3,29,AM,3:29 AM,Late Night,False,False,False,True
+330,03:30:00,3,3,30,AM,3:30 AM,Late Night,False,False,False,True
+331,03:31:00,3,3,31,AM,3:31 AM,Late Night,False,False,False,True
+332,03:32:00,3,3,32,AM,3:32 AM,Late Night,False,False,False,True
+333,03:33:00,3,3,33,AM,3:33 AM,Late Night,False,False,False,True
+334,03:34:00,3,3,34,AM,3:34 AM,Late Night,False,False,False,True
+335,03:35:00,3,3,35,AM,3:35 AM,Late Night,False,False,False,True
+336,03:36:00,3,3,36,AM,3:36 AM,Late Night,False,False,False,True
+337,03:37:00,3,3,37,AM,3:37 AM,Late Night,False,False,False,True
+338,03:38:00,3,3,38,AM,3:38 AM,Late Night,False,False,False,True
+339,03:39:00,3,3,39,AM,3:39 AM,Late Night,False,False,False,True
+340,03:40:00,3,3,40,AM,3:40 AM,Late Night,False,False,False,True
+341,03:41:00,3,3,41,AM,3:41 AM,Late Night,False,False,False,True
+342,03:42:00,3,3,42,AM,3:42 AM,Late Night,False,False,False,True
+343,03:43:00,3,3,43,AM,3:43 AM,Late Night,False,False,False,True
+344,03:44:00,3,3,44,AM,3:44 AM,Late Night,False,False,False,True
+345,03:45:00,3,3,45,AM,3:45 AM,Late Night,False,False,False,True
+346,03:46:00,3,3,46,AM,3:46 AM,Late Night,False,False,False,True
+347,03:47:00,3,3,47,AM,3:47 AM,Late Night,False,False,False,True
+348,03:48:00,3,3,48,AM,3:48 AM,Late Night,False,False,False,True
+349,03:49:00,3,3,49,AM,3:49 AM,Late Night,False,False,False,True
+350,03:50:00,3,3,50,AM,3:50 AM,Late Night,False,False,False,True
+351,03:51:00,3,3,51,AM,3:51 AM,Late Night,False,False,False,True
+352,03:52:00,3,3,52,AM,3:52 AM,Late Night,False,False,False,True
+353,03:53:00,3,3,53,AM,3:53 AM,Late Night,False,False,False,True
+354,03:54:00,3,3,54,AM,3:54 AM,Late Night,False,False,False,True
+355,03:55:00,3,3,55,AM,3:55 AM,Late Night,False,False,False,True
+356,03:56:00,3,3,56,AM,3:56 AM,Late Night,False,False,False,True
+357,03:57:00,3,3,57,AM,3:57 AM,Late Night,False,False,False,True
+358,03:58:00,3,3,58,AM,3:58 AM,Late Night,False,False,False,True
+359,03:59:00,3,3,59,AM,3:59 AM,Late Night,False,False,False,True
+400,04:00:00,4,4,0,AM,4:00 AM,Late Night,False,False,False,True
+401,04:01:00,4,4,1,AM,4:01 AM,Late Night,False,False,False,True
+402,04:02:00,4,4,2,AM,4:02 AM,Late Night,False,False,False,True
+403,04:03:00,4,4,3,AM,4:03 AM,Late Night,False,False,False,True
+404,04:04:00,4,4,4,AM,4:04 AM,Late Night,False,False,False,True
+405,04:05:00,4,4,5,AM,4:05 AM,Late Night,False,False,False,True
+406,04:06:00,4,4,6,AM,4:06 AM,Late Night,False,False,False,True
+407,04:07:00,4,4,7,AM,4:07 AM,Late Night,False,False,False,True
+408,04:08:00,4,4,8,AM,4:08 AM,Late Night,False,False,False,True
+409,04:09:00,4,4,9,AM,4:09 AM,Late Night,False,False,False,True
+410,04:10:00,4,4,10,AM,4:10 AM,Late Night,False,False,False,True
+411,04:11:00,4,4,11,AM,4:11 AM,Late Night,False,False,False,True
+412,04:12:00,4,4,12,AM,4:12 AM,Late Night,False,False,False,True
+413,04:13:00,4,4,13,AM,4:13 AM,Late Night,False,False,False,True
+414,04:14:00,4,4,14,AM,4:14 AM,Late Night,False,False,False,True
+415,04:15:00,4,4,15,AM,4:15 AM,Late Night,False,False,False,True
+416,04:16:00,4,4,16,AM,4:16 AM,Late Night,False,False,False,True
+417,04:17:00,4,4,17,AM,4:17 AM,Late Night,False,False,False,True
+418,04:18:00,4,4,18,AM,4:18 AM,Late Night,False,False,False,True
+419,04:19:00,4,4,19,AM,4:19 AM,Late Night,False,False,False,True
+420,04:20:00,4,4,20,AM,4:20 AM,Late Night,False,False,False,True
+421,04:21:00,4,4,21,AM,4:21 AM,Late Night,False,False,False,True
+422,04:22:00,4,4,22,AM,4:22 AM,Late Night,False,False,False,True
+423,04:23:00,4,4,23,AM,4:23 AM,Late Night,False,False,False,True
+424,04:24:00,4,4,24,AM,4:24 AM,Late Night,False,False,False,True
+425,04:25:00,4,4,25,AM,4:25 AM,Late Night,False,False,False,True
+426,04:26:00,4,4,26,AM,4:26 AM,Late Night,False,False,False,True
+427,04:27:00,4,4,27,AM,4:27 AM,Late Night,False,False,False,True
+428,04:28:00,4,4,28,AM,4:28 AM,Late Night,False,False,False,True
+429,04:29:00,4,4,29,AM,4:29 AM,Late Night,False,False,False,True
+430,04:30:00,4,4,30,AM,4:30 AM,Late Night,False,False,False,True
+431,04:31:00,4,4,31,AM,4:31 AM,Late Night,False,False,False,True
+432,04:32:00,4,4,32,AM,4:32 AM,Late Night,False,False,False,True
+433,04:33:00,4,4,33,AM,4:33 AM,Late Night,False,False,False,True
+434,04:34:00,4,4,34,AM,4:34 AM,Late Night,False,False,False,True
+435,04:35:00,4,4,35,AM,4:35 AM,Late Night,False,False,False,True
+436,04:36:00,4,4,36,AM,4:36 AM,Late Night,False,False,False,True
+437,04:37:00,4,4,37,AM,4:37 AM,Late Night,False,False,False,True
+438,04:38:00,4,4,38,AM,4:38 AM,Late Night,False,False,False,True
+439,04:39:00,4,4,39,AM,4:39 AM,Late Night,False,False,False,True
+440,04:40:00,4,4,40,AM,4:40 AM,Late Night,False,False,False,True
+441,04:41:00,4,4,41,AM,4:41 AM,Late Night,False,False,False,True
+442,04:42:00,4,4,42,AM,4:42 AM,Late Night,False,False,False,True
+443,04:43:00,4,4,43,AM,4:43 AM,Late Night,False,False,False,True
+444,04:44:00,4,4,44,AM,4:44 AM,Late Night,False,False,False,True
+445,04:45:00,4,4,45,AM,4:45 AM,Late Night,False,False,False,True
+446,04:46:00,4,4,46,AM,4:46 AM,Late Night,False,False,False,True
+447,04:47:00,4,4,47,AM,4:47 AM,Late Night,False,False,False,True
+448,04:48:00,4,4,48,AM,4:48 AM,Late Night,False,False,False,True
+449,04:49:00,4,4,49,AM,4:49 AM,Late Night,False,False,False,True
+450,04:50:00,4,4,50,AM,4:50 AM,Late Night,False,False,False,True
+451,04:51:00,4,4,51,AM,4:51 AM,Late Night,False,False,False,True
+452,04:52:00,4,4,52,AM,4:52 AM,Late Night,False,False,False,True
+453,04:53:00,4,4,53,AM,4:53 AM,Late Night,False,False,False,True
+454,04:54:00,4,4,54,AM,4:54 AM,Late Night,False,False,False,True
+455,04:55:00,4,4,55,AM,4:55 AM,Late Night,False,False,False,True
+456,04:56:00,4,4,56,AM,4:56 AM,Late Night,False,False,False,True
+457,04:57:00,4,4,57,AM,4:57 AM,Late Night,False,False,False,True
+458,04:58:00,4,4,58,AM,4:58 AM,Late Night,False,False,False,True
+459,04:59:00,4,4,59,AM,4:59 AM,Late Night,False,False,False,True
+500,05:00:00,5,5,0,AM,5:00 AM,Late Night,False,False,False,True
+501,05:01:00,5,5,1,AM,5:01 AM,Late Night,False,False,False,True
+502,05:02:00,5,5,2,AM,5:02 AM,Late Night,False,False,False,True
+503,05:03:00,5,5,3,AM,5:03 AM,Late Night,False,False,False,True
+504,05:04:00,5,5,4,AM,5:04 AM,Late Night,False,False,False,True
+505,05:05:00,5,5,5,AM,5:05 AM,Late Night,False,False,False,True
+506,05:06:00,5,5,6,AM,5:06 AM,Late Night,False,False,False,True
+507,05:07:00,5,5,7,AM,5:07 AM,Late Night,False,False,False,True
+508,05:08:00,5,5,8,AM,5:08 AM,Late Night,False,False,False,True
+509,05:09:00,5,5,9,AM,5:09 AM,Late Night,False,False,False,True
+510,05:10:00,5,5,10,AM,5:10 AM,Late Night,False,False,False,True
+511,05:11:00,5,5,11,AM,5:11 AM,Late Night,False,False,False,True
+512,05:12:00,5,5,12,AM,5:12 AM,Late Night,False,False,False,True
+513,05:13:00,5,5,13,AM,5:13 AM,Late Night,False,False,False,True
+514,05:14:00,5,5,14,AM,5:14 AM,Late Night,False,False,False,True
+515,05:15:00,5,5,15,AM,5:15 AM,Late Night,False,False,False,True
+516,05:16:00,5,5,16,AM,5:16 AM,Late Night,False,False,False,True
+517,05:17:00,5,5,17,AM,5:17 AM,Late Night,False,False,False,True
+518,05:18:00,5,5,18,AM,5:18 AM,Late Night,False,False,False,True
+519,05:19:00,5,5,19,AM,5:19 AM,Late Night,False,False,False,True
+520,05:20:00,5,5,20,AM,5:20 AM,Late Night,False,False,False,True
+521,05:21:00,5,5,21,AM,5:21 AM,Late Night,False,False,False,True
+522,05:22:00,5,5,22,AM,5:22 AM,Late Night,False,False,False,True
+523,05:23:00,5,5,23,AM,5:23 AM,Late Night,False,False,False,True
+524,05:24:00,5,5,24,AM,5:24 AM,Late Night,False,False,False,True
+525,05:25:00,5,5,25,AM,5:25 AM,Late Night,False,False,False,True
+526,05:26:00,5,5,26,AM,5:26 AM,Late Night,False,False,False,True
+527,05:27:00,5,5,27,AM,5:27 AM,Late Night,False,False,False,True
+528,05:28:00,5,5,28,AM,5:28 AM,Late Night,False,False,False,True
+529,05:29:00,5,5,29,AM,5:29 AM,Late Night,False,False,False,True
+530,05:30:00,5,5,30,AM,5:30 AM,Late Night,False,False,False,True
+531,05:31:00,5,5,31,AM,5:31 AM,Late Night,False,False,False,True
+532,05:32:00,5,5,32,AM,5:32 AM,Late Night,False,False,False,True
+533,05:33:00,5,5,33,AM,5:33 AM,Late Night,False,False,False,True
+534,05:34:00,5,5,34,AM,5:34 AM,Late Night,False,False,False,True
+535,05:35:00,5,5,35,AM,5:35 AM,Late Night,False,False,False,True
+536,05:36:00,5,5,36,AM,5:36 AM,Late Night,False,False,False,True
+537,05:37:00,5,5,37,AM,5:37 AM,Late Night,False,False,False,True
+538,05:38:00,5,5,38,AM,5:38 AM,Late Night,False,False,False,True
+539,05:39:00,5,5,39,AM,5:39 AM,Late Night,False,False,False,True
+540,05:40:00,5,5,40,AM,5:40 AM,Late Night,False,False,False,True
+541,05:41:00,5,5,41,AM,5:41 AM,Late Night,False,False,False,True
+542,05:42:00,5,5,42,AM,5:42 AM,Late Night,False,False,False,True
+543,05:43:00,5,5,43,AM,5:43 AM,Late Night,False,False,False,True
+544,05:44:00,5,5,44,AM,5:44 AM,Late Night,False,False,False,True
+545,05:45:00,5,5,45,AM,5:45 AM,Late Night,False,False,False,True
+546,05:46:00,5,5,46,AM,5:46 AM,Late Night,False,False,False,True
+547,05:47:00,5,5,47,AM,5:47 AM,Late Night,False,False,False,True
+548,05:48:00,5,5,48,AM,5:48 AM,Late Night,False,False,False,True
+549,05:49:00,5,5,49,AM,5:49 AM,Late Night,False,False,False,True
+550,05:50:00,5,5,50,AM,5:50 AM,Late Night,False,False,False,True
+551,05:51:00,5,5,51,AM,5:51 AM,Late Night,False,False,False,True
+552,05:52:00,5,5,52,AM,5:52 AM,Late Night,False,False,False,True
+553,05:53:00,5,5,53,AM,5:53 AM,Late Night,False,False,False,True
+554,05:54:00,5,5,54,AM,5:54 AM,Late Night,False,False,False,True
+555,05:55:00,5,5,55,AM,5:55 AM,Late Night,False,False,False,True
+556,05:56:00,5,5,56,AM,5:56 AM,Late Night,False,False,False,True
+557,05:57:00,5,5,57,AM,5:57 AM,Late Night,False,False,False,True
+558,05:58:00,5,5,58,AM,5:58 AM,Late Night,False,False,False,True
+559,05:59:00,5,5,59,AM,5:59 AM,Late Night,False,False,False,True
+600,06:00:00,6,6,0,AM,6:00 AM,Morning,True,False,False,False
+601,06:01:00,6,6,1,AM,6:01 AM,Morning,True,False,False,False
+602,06:02:00,6,6,2,AM,6:02 AM,Morning,True,False,False,False
+603,06:03:00,6,6,3,AM,6:03 AM,Morning,True,False,False,False
+604,06:04:00,6,6,4,AM,6:04 AM,Morning,True,False,False,False
+605,06:05:00,6,6,5,AM,6:05 AM,Morning,True,False,False,False
+606,06:06:00,6,6,6,AM,6:06 AM,Morning,True,False,False,False
+607,06:07:00,6,6,7,AM,6:07 AM,Morning,True,False,False,False
+608,06:08:00,6,6,8,AM,6:08 AM,Morning,True,False,False,False
+609,06:09:00,6,6,9,AM,6:09 AM,Morning,True,False,False,False
+610,06:10:00,6,6,10,AM,6:10 AM,Morning,True,False,False,False
+611,06:11:00,6,6,11,AM,6:11 AM,Morning,True,False,False,False
+612,06:12:00,6,6,12,AM,6:12 AM,Morning,True,False,False,False
+613,06:13:00,6,6,13,AM,6:13 AM,Morning,True,False,False,False
+614,06:14:00,6,6,14,AM,6:14 AM,Morning,True,False,False,False
+615,06:15:00,6,6,15,AM,6:15 AM,Morning,True,False,False,False
+616,06:16:00,6,6,16,AM,6:16 AM,Morning,True,False,False,False
+617,06:17:00,6,6,17,AM,6:17 AM,Morning,True,False,False,False
+618,06:18:00,6,6,18,AM,6:18 AM,Morning,True,False,False,False
+619,06:19:00,6,6,19,AM,6:19 AM,Morning,True,False,False,False
+620,06:20:00,6,6,20,AM,6:20 AM,Morning,True,False,False,False
+621,06:21:00,6,6,21,AM,6:21 AM,Morning,True,False,False,False
+622,06:22:00,6,6,22,AM,6:22 AM,Morning,True,False,False,False
+623,06:23:00,6,6,23,AM,6:23 AM,Morning,True,False,False,False
+624,06:24:00,6,6,24,AM,6:24 AM,Morning,True,False,False,False
+625,06:25:00,6,6,25,AM,6:25 AM,Morning,True,False,False,False
+626,06:26:00,6,6,26,AM,6:26 AM,Morning,True,False,False,False
+627,06:27:00,6,6,27,AM,6:27 AM,Morning,True,False,False,False
+628,06:28:00,6,6,28,AM,6:28 AM,Morning,True,False,False,False
+629,06:29:00,6,6,29,AM,6:29 AM,Morning,True,False,False,False
+630,06:30:00,6,6,30,AM,6:30 AM,Morning,True,False,False,False
+631,06:31:00,6,6,31,AM,6:31 AM,Morning,True,False,False,False
+632,06:32:00,6,6,32,AM,6:32 AM,Morning,True,False,False,False
+633,06:33:00,6,6,33,AM,6:33 AM,Morning,True,False,False,False
+634,06:34:00,6,6,34,AM,6:34 AM,Morning,True,False,False,False
+635,06:35:00,6,6,35,AM,6:35 AM,Morning,True,False,False,False
+636,06:36:00,6,6,36,AM,6:36 AM,Morning,True,False,False,False
+637,06:37:00,6,6,37,AM,6:37 AM,Morning,True,False,False,False
+638,06:38:00,6,6,38,AM,6:38 AM,Morning,True,False,False,False
+639,06:39:00,6,6,39,AM,6:39 AM,Morning,True,False,False,False
+640,06:40:00,6,6,40,AM,6:40 AM,Morning,True,False,False,False
+641,06:41:00,6,6,41,AM,6:41 AM,Morning,True,False,False,False
+642,06:42:00,6,6,42,AM,6:42 AM,Morning,True,False,False,False
+643,06:43:00,6,6,43,AM,6:43 AM,Morning,True,False,False,False
+644,06:44:00,6,6,44,AM,6:44 AM,Morning,True,False,False,False
+645,06:45:00,6,6,45,AM,6:45 AM,Morning,True,False,False,False
+646,06:46:00,6,6,46,AM,6:46 AM,Morning,True,False,False,False
+647,06:47:00,6,6,47,AM,6:47 AM,Morning,True,False,False,False
+648,06:48:00,6,6,48,AM,6:48 AM,Morning,True,False,False,False
+649,06:49:00,6,6,49,AM,6:49 AM,Morning,True,False,False,False
+650,06:50:00,6,6,50,AM,6:50 AM,Morning,True,False,False,False
+651,06:51:00,6,6,51,AM,6:51 AM,Morning,True,False,False,False
+652,06:52:00,6,6,52,AM,6:52 AM,Morning,True,False,False,False
+653,06:53:00,6,6,53,AM,6:53 AM,Morning,True,False,False,False
+654,06:54:00,6,6,54,AM,6:54 AM,Morning,True,False,False,False
+655,06:55:00,6,6,55,AM,6:55 AM,Morning,True,False,False,False
+656,06:56:00,6,6,56,AM,6:56 AM,Morning,True,False,False,False
+657,06:57:00,6,6,57,AM,6:57 AM,Morning,True,False,False,False
+658,06:58:00,6,6,58,AM,6:58 AM,Morning,True,False,False,False
+659,06:59:00,6,6,59,AM,6:59 AM,Morning,True,False,False,False
+700,07:00:00,7,7,0,AM,7:00 AM,Morning,True,False,False,False
+701,07:01:00,7,7,1,AM,7:01 AM,Morning,True,False,False,False
+702,07:02:00,7,7,2,AM,7:02 AM,Morning,True,False,False,False
+703,07:03:00,7,7,3,AM,7:03 AM,Morning,True,False,False,False
+704,07:04:00,7,7,4,AM,7:04 AM,Morning,True,False,False,False
+705,07:05:00,7,7,5,AM,7:05 AM,Morning,True,False,False,False
+706,07:06:00,7,7,6,AM,7:06 AM,Morning,True,False,False,False
+707,07:07:00,7,7,7,AM,7:07 AM,Morning,True,False,False,False
+708,07:08:00,7,7,8,AM,7:08 AM,Morning,True,False,False,False
+709,07:09:00,7,7,9,AM,7:09 AM,Morning,True,False,False,False
+710,07:10:00,7,7,10,AM,7:10 AM,Morning,True,False,False,False
+711,07:11:00,7,7,11,AM,7:11 AM,Morning,True,False,False,False
+712,07:12:00,7,7,12,AM,7:12 AM,Morning,True,False,False,False
+713,07:13:00,7,7,13,AM,7:13 AM,Morning,True,False,False,False
+714,07:14:00,7,7,14,AM,7:14 AM,Morning,True,False,False,False
+715,07:15:00,7,7,15,AM,7:15 AM,Morning,True,False,False,False
+716,07:16:00,7,7,16,AM,7:16 AM,Morning,True,False,False,False
+717,07:17:00,7,7,17,AM,7:17 AM,Morning,True,False,False,False
+718,07:18:00,7,7,18,AM,7:18 AM,Morning,True,False,False,False
+719,07:19:00,7,7,19,AM,7:19 AM,Morning,True,False,False,False
+720,07:20:00,7,7,20,AM,7:20 AM,Morning,True,False,False,False
+721,07:21:00,7,7,21,AM,7:21 AM,Morning,True,False,False,False
+722,07:22:00,7,7,22,AM,7:22 AM,Morning,True,False,False,False
+723,07:23:00,7,7,23,AM,7:23 AM,Morning,True,False,False,False
+724,07:24:00,7,7,24,AM,7:24 AM,Morning,True,False,False,False
+725,07:25:00,7,7,25,AM,7:25 AM,Morning,True,False,False,False
+726,07:26:00,7,7,26,AM,7:26 AM,Morning,True,False,False,False
+727,07:27:00,7,7,27,AM,7:27 AM,Morning,True,False,False,False
+728,07:28:00,7,7,28,AM,7:28 AM,Morning,True,False,False,False
+729,07:29:00,7,7,29,AM,7:29 AM,Morning,True,False,False,False
+730,07:30:00,7,7,30,AM,7:30 AM,Morning,True,False,False,False
+731,07:31:00,7,7,31,AM,7:31 AM,Morning,True,False,False,False
+732,07:32:00,7,7,32,AM,7:32 AM,Morning,True,False,False,False
+733,07:33:00,7,7,33,AM,7:33 AM,Morning,True,False,False,False
+734,07:34:00,7,7,34,AM,7:34 AM,Morning,True,False,False,False
+735,07:35:00,7,7,35,AM,7:35 AM,Morning,True,False,False,False
+736,07:36:00,7,7,36,AM,7:36 AM,Morning,True,False,False,False
+737,07:37:00,7,7,37,AM,7:37 AM,Morning,True,False,False,False
+738,07:38:00,7,7,38,AM,7:38 AM,Morning,True,False,False,False
+739,07:39:00,7,7,39,AM,7:39 AM,Morning,True,False,False,False
+740,07:40:00,7,7,40,AM,7:40 AM,Morning,True,False,False,False
+741,07:41:00,7,7,41,AM,7:41 AM,Morning,True,False,False,False
+742,07:42:00,7,7,42,AM,7:42 AM,Morning,True,False,False,False
+743,07:43:00,7,7,43,AM,7:43 AM,Morning,True,False,False,False
+744,07:44:00,7,7,44,AM,7:44 AM,Morning,True,False,False,False
+745,07:45:00,7,7,45,AM,7:45 AM,Morning,True,False,False,False
+746,07:46:00,7,7,46,AM,7:46 AM,Morning,True,False,False,False
+747,07:47:00,7,7,47,AM,7:47 AM,Morning,True,False,False,False
+748,07:48:00,7,7,48,AM,7:48 AM,Morning,True,False,False,False
+749,07:49:00,7,7,49,AM,7:49 AM,Morning,True,False,False,False
+750,07:50:00,7,7,50,AM,7:50 AM,Morning,True,False,False,False
+751,07:51:00,7,7,51,AM,7:51 AM,Morning,True,False,False,False
+752,07:52:00,7,7,52,AM,7:52 AM,Morning,True,False,False,False
+753,07:53:00,7,7,53,AM,7:53 AM,Morning,True,False,False,False
+754,07:54:00,7,7,54,AM,7:54 AM,Morning,True,False,False,False
+755,07:55:00,7,7,55,AM,7:55 AM,Morning,True,False,False,False
+756,07:56:00,7,7,56,AM,7:56 AM,Morning,True,False,False,False
+757,07:57:00,7,7,57,AM,7:57 AM,Morning,True,False,False,False
+758,07:58:00,7,7,58,AM,7:58 AM,Morning,True,False,False,False
+759,07:59:00,7,7,59,AM,7:59 AM,Morning,True,False,False,False
+800,08:00:00,8,8,0,AM,8:00 AM,Morning,True,False,False,False
+801,08:01:00,8,8,1,AM,8:01 AM,Morning,True,False,False,False
+802,08:02:00,8,8,2,AM,8:02 AM,Morning,True,False,False,False
+803,08:03:00,8,8,3,AM,8:03 AM,Morning,True,False,False,False
+804,08:04:00,8,8,4,AM,8:04 AM,Morning,True,False,False,False
+805,08:05:00,8,8,5,AM,8:05 AM,Morning,True,False,False,False
+806,08:06:00,8,8,6,AM,8:06 AM,Morning,True,False,False,False
+807,08:07:00,8,8,7,AM,8:07 AM,Morning,True,False,False,False
+808,08:08:00,8,8,8,AM,8:08 AM,Morning,True,False,False,False
+809,08:09:00,8,8,9,AM,8:09 AM,Morning,True,False,False,False
+810,08:10:00,8,8,10,AM,8:10 AM,Morning,True,False,False,False
+811,08:11:00,8,8,11,AM,8:11 AM,Morning,True,False,False,False
+812,08:12:00,8,8,12,AM,8:12 AM,Morning,True,False,False,False
+813,08:13:00,8,8,13,AM,8:13 AM,Morning,True,False,False,False
+814,08:14:00,8,8,14,AM,8:14 AM,Morning,True,False,False,False
+815,08:15:00,8,8,15,AM,8:15 AM,Morning,True,False,False,False
+816,08:16:00,8,8,16,AM,8:16 AM,Morning,True,False,False,False
+817,08:17:00,8,8,17,AM,8:17 AM,Morning,True,False,False,False
+818,08:18:00,8,8,18,AM,8:18 AM,Morning,True,False,False,False
+819,08:19:00,8,8,19,AM,8:19 AM,Morning,True,False,False,False
+820,08:20:00,8,8,20,AM,8:20 AM,Morning,True,False,False,False
+821,08:21:00,8,8,21,AM,8:21 AM,Morning,True,False,False,False
+822,08:22:00,8,8,22,AM,8:22 AM,Morning,True,False,False,False
+823,08:23:00,8,8,23,AM,8:23 AM,Morning,True,False,False,False
+824,08:24:00,8,8,24,AM,8:24 AM,Morning,True,False,False,False
+825,08:25:00,8,8,25,AM,8:25 AM,Morning,True,False,False,False
+826,08:26:00,8,8,26,AM,8:26 AM,Morning,True,False,False,False
+827,08:27:00,8,8,27,AM,8:27 AM,Morning,True,False,False,False
+828,08:28:00,8,8,28,AM,8:28 AM,Morning,True,False,False,False
+829,08:29:00,8,8,29,AM,8:29 AM,Morning,True,False,False,False
+830,08:30:00,8,8,30,AM,8:30 AM,Morning,True,False,False,False
+831,08:31:00,8,8,31,AM,8:31 AM,Morning,True,False,False,False
+832,08:32:00,8,8,32,AM,8:32 AM,Morning,True,False,False,False
+833,08:33:00,8,8,33,AM,8:33 AM,Morning,True,False,False,False
+834,08:34:00,8,8,34,AM,8:34 AM,Morning,True,False,False,False
+835,08:35:00,8,8,35,AM,8:35 AM,Morning,True,False,False,False
+836,08:36:00,8,8,36,AM,8:36 AM,Morning,True,False,False,False
+837,08:37:00,8,8,37,AM,8:37 AM,Morning,True,False,False,False
+838,08:38:00,8,8,38,AM,8:38 AM,Morning,True,False,False,False
+839,08:39:00,8,8,39,AM,8:39 AM,Morning,True,False,False,False
+840,08:40:00,8,8,40,AM,8:40 AM,Morning,True,False,False,False
+841,08:41:00,8,8,41,AM,8:41 AM,Morning,True,False,False,False
+842,08:42:00,8,8,42,AM,8:42 AM,Morning,True,False,False,False
+843,08:43:00,8,8,43,AM,8:43 AM,Morning,True,False,False,False
+844,08:44:00,8,8,44,AM,8:44 AM,Morning,True,False,False,False
+845,08:45:00,8,8,45,AM,8:45 AM,Morning,True,False,False,False
+846,08:46:00,8,8,46,AM,8:46 AM,Morning,True,False,False,False
+847,08:47:00,8,8,47,AM,8:47 AM,Morning,True,False,False,False
+848,08:48:00,8,8,48,AM,8:48 AM,Morning,True,False,False,False
+849,08:49:00,8,8,49,AM,8:49 AM,Morning,True,False,False,False
+850,08:50:00,8,8,50,AM,8:50 AM,Morning,True,False,False,False
+851,08:51:00,8,8,51,AM,8:51 AM,Morning,True,False,False,False
+852,08:52:00,8,8,52,AM,8:52 AM,Morning,True,False,False,False
+853,08:53:00,8,8,53,AM,8:53 AM,Morning,True,False,False,False
+854,08:54:00,8,8,54,AM,8:54 AM,Morning,True,False,False,False
+855,08:55:00,8,8,55,AM,8:55 AM,Morning,True,False,False,False
+856,08:56:00,8,8,56,AM,8:56 AM,Morning,True,False,False,False
+857,08:57:00,8,8,57,AM,8:57 AM,Morning,True,False,False,False
+858,08:58:00,8,8,58,AM,8:58 AM,Morning,True,False,False,False
+859,08:59:00,8,8,59,AM,8:59 AM,Morning,True,False,False,False
+900,09:00:00,9,9,0,AM,9:00 AM,Morning,True,False,False,False
+901,09:01:00,9,9,1,AM,9:01 AM,Morning,True,False,False,False
+902,09:02:00,9,9,2,AM,9:02 AM,Morning,True,False,False,False
+903,09:03:00,9,9,3,AM,9:03 AM,Morning,True,False,False,False
+904,09:04:00,9,9,4,AM,9:04 AM,Morning,True,False,False,False
+905,09:05:00,9,9,5,AM,9:05 AM,Morning,True,False,False,False
+906,09:06:00,9,9,6,AM,9:06 AM,Morning,True,False,False,False
+907,09:07:00,9,9,7,AM,9:07 AM,Morning,True,False,False,False
+908,09:08:00,9,9,8,AM,9:08 AM,Morning,True,False,False,False
+909,09:09:00,9,9,9,AM,9:09 AM,Morning,True,False,False,False
+910,09:10:00,9,9,10,AM,9:10 AM,Morning,True,False,False,False
+911,09:11:00,9,9,11,AM,9:11 AM,Morning,True,False,False,False
+912,09:12:00,9,9,12,AM,9:12 AM,Morning,True,False,False,False
+913,09:13:00,9,9,13,AM,9:13 AM,Morning,True,False,False,False
+914,09:14:00,9,9,14,AM,9:14 AM,Morning,True,False,False,False
+915,09:15:00,9,9,15,AM,9:15 AM,Morning,True,False,False,False
+916,09:16:00,9,9,16,AM,9:16 AM,Morning,True,False,False,False
+917,09:17:00,9,9,17,AM,9:17 AM,Morning,True,False,False,False
+918,09:18:00,9,9,18,AM,9:18 AM,Morning,True,False,False,False
+919,09:19:00,9,9,19,AM,9:19 AM,Morning,True,False,False,False
+920,09:20:00,9,9,20,AM,9:20 AM,Morning,True,False,False,False
+921,09:21:00,9,9,21,AM,9:21 AM,Morning,True,False,False,False
+922,09:22:00,9,9,22,AM,9:22 AM,Morning,True,False,False,False
+923,09:23:00,9,9,23,AM,9:23 AM,Morning,True,False,False,False
+924,09:24:00,9,9,24,AM,9:24 AM,Morning,True,False,False,False
+925,09:25:00,9,9,25,AM,9:25 AM,Morning,True,False,False,False
+926,09:26:00,9,9,26,AM,9:26 AM,Morning,True,False,False,False
+927,09:27:00,9,9,27,AM,9:27 AM,Morning,True,False,False,False
+928,09:28:00,9,9,28,AM,9:28 AM,Morning,True,False,False,False
+929,09:29:00,9,9,29,AM,9:29 AM,Morning,True,False,False,False
+930,09:30:00,9,9,30,AM,9:30 AM,Morning,True,False,False,False
+931,09:31:00,9,9,31,AM,9:31 AM,Morning,True,False,False,False
+932,09:32:00,9,9,32,AM,9:32 AM,Morning,True,False,False,False
+933,09:33:00,9,9,33,AM,9:33 AM,Morning,True,False,False,False
+934,09:34:00,9,9,34,AM,9:34 AM,Morning,True,False,False,False
+935,09:35:00,9,9,35,AM,9:35 AM,Morning,True,False,False,False
+936,09:36:00,9,9,36,AM,9:36 AM,Morning,True,False,False,False
+937,09:37:00,9,9,37,AM,9:37 AM,Morning,True,False,False,False
+938,09:38:00,9,9,38,AM,9:38 AM,Morning,True,False,False,False
+939,09:39:00,9,9,39,AM,9:39 AM,Morning,True,False,False,False
+940,09:40:00,9,9,40,AM,9:40 AM,Morning,True,False,False,False
+941,09:41:00,9,9,41,AM,9:41 AM,Morning,True,False,False,False
+942,09:42:00,9,9,42,AM,9:42 AM,Morning,True,False,False,False
+943,09:43:00,9,9,43,AM,9:43 AM,Morning,True,False,False,False
+944,09:44:00,9,9,44,AM,9:44 AM,Morning,True,False,False,False
+945,09:45:00,9,9,45,AM,9:45 AM,Morning,True,False,False,False
+946,09:46:00,9,9,46,AM,9:46 AM,Morning,True,False,False,False
+947,09:47:00,9,9,47,AM,9:47 AM,Morning,True,False,False,False
+948,09:48:00,9,9,48,AM,9:48 AM,Morning,True,False,False,False
+949,09:49:00,9,9,49,AM,9:49 AM,Morning,True,False,False,False
+950,09:50:00,9,9,50,AM,9:50 AM,Morning,True,False,False,False
+951,09:51:00,9,9,51,AM,9:51 AM,Morning,True,False,False,False
+952,09:52:00,9,9,52,AM,9:52 AM,Morning,True,False,False,False
+953,09:53:00,9,9,53,AM,9:53 AM,Morning,True,False,False,False
+954,09:54:00,9,9,54,AM,9:54 AM,Morning,True,False,False,False
+955,09:55:00,9,9,55,AM,9:55 AM,Morning,True,False,False,False
+956,09:56:00,9,9,56,AM,9:56 AM,Morning,True,False,False,False
+957,09:57:00,9,9,57,AM,9:57 AM,Morning,True,False,False,False
+958,09:58:00,9,9,58,AM,9:58 AM,Morning,True,False,False,False
+959,09:59:00,9,9,59,AM,9:59 AM,Morning,True,False,False,False
+1000,10:00:00,10,10,0,AM,10:00 AM,Morning,True,False,False,False
+1001,10:01:00,10,10,1,AM,10:01 AM,Morning,True,False,False,False
+1002,10:02:00,10,10,2,AM,10:02 AM,Morning,True,False,False,False
+1003,10:03:00,10,10,3,AM,10:03 AM,Morning,True,False,False,False
+1004,10:04:00,10,10,4,AM,10:04 AM,Morning,True,False,False,False
+1005,10:05:00,10,10,5,AM,10:05 AM,Morning,True,False,False,False
+1006,10:06:00,10,10,6,AM,10:06 AM,Morning,True,False,False,False
+1007,10:07:00,10,10,7,AM,10:07 AM,Morning,True,False,False,False
+1008,10:08:00,10,10,8,AM,10:08 AM,Morning,True,False,False,False
+1009,10:09:00,10,10,9,AM,10:09 AM,Morning,True,False,False,False
+1010,10:10:00,10,10,10,AM,10:10 AM,Morning,True,False,False,False
+1011,10:11:00,10,10,11,AM,10:11 AM,Morning,True,False,False,False
+1012,10:12:00,10,10,12,AM,10:12 AM,Morning,True,False,False,False
+1013,10:13:00,10,10,13,AM,10:13 AM,Morning,True,False,False,False
+1014,10:14:00,10,10,14,AM,10:14 AM,Morning,True,False,False,False
+1015,10:15:00,10,10,15,AM,10:15 AM,Morning,True,False,False,False
+1016,10:16:00,10,10,16,AM,10:16 AM,Morning,True,False,False,False
+1017,10:17:00,10,10,17,AM,10:17 AM,Morning,True,False,False,False
+1018,10:18:00,10,10,18,AM,10:18 AM,Morning,True,False,False,False
+1019,10:19:00,10,10,19,AM,10:19 AM,Morning,True,False,False,False
+1020,10:20:00,10,10,20,AM,10:20 AM,Morning,True,False,False,False
+1021,10:21:00,10,10,21,AM,10:21 AM,Morning,True,False,False,False
+1022,10:22:00,10,10,22,AM,10:22 AM,Morning,True,False,False,False
+1023,10:23:00,10,10,23,AM,10:23 AM,Morning,True,False,False,False
+1024,10:24:00,10,10,24,AM,10:24 AM,Morning,True,False,False,False
+1025,10:25:00,10,10,25,AM,10:25 AM,Morning,True,False,False,False
+1026,10:26:00,10,10,26,AM,10:26 AM,Morning,True,False,False,False
+1027,10:27:00,10,10,27,AM,10:27 AM,Morning,True,False,False,False
+1028,10:28:00,10,10,28,AM,10:28 AM,Morning,True,False,False,False
+1029,10:29:00,10,10,29,AM,10:29 AM,Morning,True,False,False,False
+1030,10:30:00,10,10,30,AM,10:30 AM,Morning,True,False,False,False
+1031,10:31:00,10,10,31,AM,10:31 AM,Morning,True,False,False,False
+1032,10:32:00,10,10,32,AM,10:32 AM,Morning,True,False,False,False
+1033,10:33:00,10,10,33,AM,10:33 AM,Morning,True,False,False,False
+1034,10:34:00,10,10,34,AM,10:34 AM,Morning,True,False,False,False
+1035,10:35:00,10,10,35,AM,10:35 AM,Morning,True,False,False,False
+1036,10:36:00,10,10,36,AM,10:36 AM,Morning,True,False,False,False
+1037,10:37:00,10,10,37,AM,10:37 AM,Morning,True,False,False,False
+1038,10:38:00,10,10,38,AM,10:38 AM,Morning,True,False,False,False
+1039,10:39:00,10,10,39,AM,10:39 AM,Morning,True,False,False,False
+1040,10:40:00,10,10,40,AM,10:40 AM,Morning,True,False,False,False
+1041,10:41:00,10,10,41,AM,10:41 AM,Morning,True,False,False,False
+1042,10:42:00,10,10,42,AM,10:42 AM,Morning,True,False,False,False
+1043,10:43:00,10,10,43,AM,10:43 AM,Morning,True,False,False,False
+1044,10:44:00,10,10,44,AM,10:44 AM,Morning,True,False,False,False
+1045,10:45:00,10,10,45,AM,10:45 AM,Morning,True,False,False,False
+1046,10:46:00,10,10,46,AM,10:46 AM,Morning,True,False,False,False
+1047,10:47:00,10,10,47,AM,10:47 AM,Morning,True,False,False,False
+1048,10:48:00,10,10,48,AM,10:48 AM,Morning,True,False,False,False
+1049,10:49:00,10,10,49,AM,10:49 AM,Morning,True,False,False,False
+1050,10:50:00,10,10,50,AM,10:50 AM,Morning,True,False,False,False
+1051,10:51:00,10,10,51,AM,10:51 AM,Morning,True,False,False,False
+1052,10:52:00,10,10,52,AM,10:52 AM,Morning,True,False,False,False
+1053,10:53:00,10,10,53,AM,10:53 AM,Morning,True,False,False,False
+1054,10:54:00,10,10,54,AM,10:54 AM,Morning,True,False,False,False
+1055,10:55:00,10,10,55,AM,10:55 AM,Morning,True,False,False,False
+1056,10:56:00,10,10,56,AM,10:56 AM,Morning,True,False,False,False
+1057,10:57:00,10,10,57,AM,10:57 AM,Morning,True,False,False,False
+1058,10:58:00,10,10,58,AM,10:58 AM,Morning,True,False,False,False
+1059,10:59:00,10,10,59,AM,10:59 AM,Morning,True,False,False,False
+1100,11:00:00,11,11,0,AM,11:00 AM,Morning,True,False,False,False
+1101,11:01:00,11,11,1,AM,11:01 AM,Morning,True,False,False,False
+1102,11:02:00,11,11,2,AM,11:02 AM,Morning,True,False,False,False
+1103,11:03:00,11,11,3,AM,11:03 AM,Morning,True,False,False,False
+1104,11:04:00,11,11,4,AM,11:04 AM,Morning,True,False,False,False
+1105,11:05:00,11,11,5,AM,11:05 AM,Morning,True,False,False,False
+1106,11:06:00,11,11,6,AM,11:06 AM,Morning,True,False,False,False
+1107,11:07:00,11,11,7,AM,11:07 AM,Morning,True,False,False,False
+1108,11:08:00,11,11,8,AM,11:08 AM,Morning,True,False,False,False
+1109,11:09:00,11,11,9,AM,11:09 AM,Morning,True,False,False,False
+1110,11:10:00,11,11,10,AM,11:10 AM,Morning,True,False,False,False
+1111,11:11:00,11,11,11,AM,11:11 AM,Morning,True,False,False,False
+1112,11:12:00,11,11,12,AM,11:12 AM,Morning,True,False,False,False
+1113,11:13:00,11,11,13,AM,11:13 AM,Morning,True,False,False,False
+1114,11:14:00,11,11,14,AM,11:14 AM,Morning,True,False,False,False
+1115,11:15:00,11,11,15,AM,11:15 AM,Morning,True,False,False,False
+1116,11:16:00,11,11,16,AM,11:16 AM,Morning,True,False,False,False
+1117,11:17:00,11,11,17,AM,11:17 AM,Morning,True,False,False,False
+1118,11:18:00,11,11,18,AM,11:18 AM,Morning,True,False,False,False
+1119,11:19:00,11,11,19,AM,11:19 AM,Morning,True,False,False,False
+1120,11:20:00,11,11,20,AM,11:20 AM,Morning,True,False,False,False
+1121,11:21:00,11,11,21,AM,11:21 AM,Morning,True,False,False,False
+1122,11:22:00,11,11,22,AM,11:22 AM,Morning,True,False,False,False
+1123,11:23:00,11,11,23,AM,11:23 AM,Morning,True,False,False,False
+1124,11:24:00,11,11,24,AM,11:24 AM,Morning,True,False,False,False
+1125,11:25:00,11,11,25,AM,11:25 AM,Morning,True,False,False,False
+1126,11:26:00,11,11,26,AM,11:26 AM,Morning,True,False,False,False
+1127,11:27:00,11,11,27,AM,11:27 AM,Morning,True,False,False,False
+1128,11:28:00,11,11,28,AM,11:28 AM,Morning,True,False,False,False
+1129,11:29:00,11,11,29,AM,11:29 AM,Morning,True,False,False,False
+1130,11:30:00,11,11,30,AM,11:30 AM,Morning,True,False,False,False
+1131,11:31:00,11,11,31,AM,11:31 AM,Morning,True,False,False,False
+1132,11:32:00,11,11,32,AM,11:32 AM,Morning,True,False,False,False
+1133,11:33:00,11,11,33,AM,11:33 AM,Morning,True,False,False,False
+1134,11:34:00,11,11,34,AM,11:34 AM,Morning,True,False,False,False
+1135,11:35:00,11,11,35,AM,11:35 AM,Morning,True,False,False,False
+1136,11:36:00,11,11,36,AM,11:36 AM,Morning,True,False,False,False
+1137,11:37:00,11,11,37,AM,11:37 AM,Morning,True,False,False,False
+1138,11:38:00,11,11,38,AM,11:38 AM,Morning,True,False,False,False
+1139,11:39:00,11,11,39,AM,11:39 AM,Morning,True,False,False,False
+1140,11:40:00,11,11,40,AM,11:40 AM,Morning,True,False,False,False
+1141,11:41:00,11,11,41,AM,11:41 AM,Morning,True,False,False,False
+1142,11:42:00,11,11,42,AM,11:42 AM,Morning,True,False,False,False
+1143,11:43:00,11,11,43,AM,11:43 AM,Morning,True,False,False,False
+1144,11:44:00,11,11,44,AM,11:44 AM,Morning,True,False,False,False
+1145,11:45:00,11,11,45,AM,11:45 AM,Morning,True,False,False,False
+1146,11:46:00,11,11,46,AM,11:46 AM,Morning,True,False,False,False
+1147,11:47:00,11,11,47,AM,11:47 AM,Morning,True,False,False,False
+1148,11:48:00,11,11,48,AM,11:48 AM,Morning,True,False,False,False
+1149,11:49:00,11,11,49,AM,11:49 AM,Morning,True,False,False,False
+1150,11:50:00,11,11,50,AM,11:50 AM,Morning,True,False,False,False
+1151,11:51:00,11,11,51,AM,11:51 AM,Morning,True,False,False,False
+1152,11:52:00,11,11,52,AM,11:52 AM,Morning,True,False,False,False
+1153,11:53:00,11,11,53,AM,11:53 AM,Morning,True,False,False,False
+1154,11:54:00,11,11,54,AM,11:54 AM,Morning,True,False,False,False
+1155,11:55:00,11,11,55,AM,11:55 AM,Morning,True,False,False,False
+1156,11:56:00,11,11,56,AM,11:56 AM,Morning,True,False,False,False
+1157,11:57:00,11,11,57,AM,11:57 AM,Morning,True,False,False,False
+1158,11:58:00,11,11,58,AM,11:58 AM,Morning,True,False,False,False
+1159,11:59:00,11,11,59,AM,11:59 AM,Morning,True,False,False,False
+1200,12:00:00,12,12,0,PM,12:00 PM,Afternoon,False,True,False,False
+1201,12:01:00,12,12,1,PM,12:01 PM,Afternoon,False,True,False,False
+1202,12:02:00,12,12,2,PM,12:02 PM,Afternoon,False,True,False,False
+1203,12:03:00,12,12,3,PM,12:03 PM,Afternoon,False,True,False,False
+1204,12:04:00,12,12,4,PM,12:04 PM,Afternoon,False,True,False,False
+1205,12:05:00,12,12,5,PM,12:05 PM,Afternoon,False,True,False,False
+1206,12:06:00,12,12,6,PM,12:06 PM,Afternoon,False,True,False,False
+1207,12:07:00,12,12,7,PM,12:07 PM,Afternoon,False,True,False,False
+1208,12:08:00,12,12,8,PM,12:08 PM,Afternoon,False,True,False,False
+1209,12:09:00,12,12,9,PM,12:09 PM,Afternoon,False,True,False,False
+1210,12:10:00,12,12,10,PM,12:10 PM,Afternoon,False,True,False,False
+1211,12:11:00,12,12,11,PM,12:11 PM,Afternoon,False,True,False,False
+1212,12:12:00,12,12,12,PM,12:12 PM,Afternoon,False,True,False,False
+1213,12:13:00,12,12,13,PM,12:13 PM,Afternoon,False,True,False,False
+1214,12:14:00,12,12,14,PM,12:14 PM,Afternoon,False,True,False,False
+1215,12:15:00,12,12,15,PM,12:15 PM,Afternoon,False,True,False,False
+1216,12:16:00,12,12,16,PM,12:16 PM,Afternoon,False,True,False,False
+1217,12:17:00,12,12,17,PM,12:17 PM,Afternoon,False,True,False,False
+1218,12:18:00,12,12,18,PM,12:18 PM,Afternoon,False,True,False,False
+1219,12:19:00,12,12,19,PM,12:19 PM,Afternoon,False,True,False,False
+1220,12:20:00,12,12,20,PM,12:20 PM,Afternoon,False,True,False,False
+1221,12:21:00,12,12,21,PM,12:21 PM,Afternoon,False,True,False,False
+1222,12:22:00,12,12,22,PM,12:22 PM,Afternoon,False,True,False,False
+1223,12:23:00,12,12,23,PM,12:23 PM,Afternoon,False,True,False,False
+1224,12:24:00,12,12,24,PM,12:24 PM,Afternoon,False,True,False,False
+1225,12:25:00,12,12,25,PM,12:25 PM,Afternoon,False,True,False,False
+1226,12:26:00,12,12,26,PM,12:26 PM,Afternoon,False,True,False,False
+1227,12:27:00,12,12,27,PM,12:27 PM,Afternoon,False,True,False,False
+1228,12:28:00,12,12,28,PM,12:28 PM,Afternoon,False,True,False,False
+1229,12:29:00,12,12,29,PM,12:29 PM,Afternoon,False,True,False,False
+1230,12:30:00,12,12,30,PM,12:30 PM,Afternoon,False,True,False,False
+1231,12:31:00,12,12,31,PM,12:31 PM,Afternoon,False,True,False,False
+1232,12:32:00,12,12,32,PM,12:32 PM,Afternoon,False,True,False,False
+1233,12:33:00,12,12,33,PM,12:33 PM,Afternoon,False,True,False,False
+1234,12:34:00,12,12,34,PM,12:34 PM,Afternoon,False,True,False,False
+1235,12:35:00,12,12,35,PM,12:35 PM,Afternoon,False,True,False,False
+1236,12:36:00,12,12,36,PM,12:36 PM,Afternoon,False,True,False,False
+1237,12:37:00,12,12,37,PM,12:37 PM,Afternoon,False,True,False,False
+1238,12:38:00,12,12,38,PM,12:38 PM,Afternoon,False,True,False,False
+1239,12:39:00,12,12,39,PM,12:39 PM,Afternoon,False,True,False,False
+1240,12:40:00,12,12,40,PM,12:40 PM,Afternoon,False,True,False,False
+1241,12:41:00,12,12,41,PM,12:41 PM,Afternoon,False,True,False,False
+1242,12:42:00,12,12,42,PM,12:42 PM,Afternoon,False,True,False,False
+1243,12:43:00,12,12,43,PM,12:43 PM,Afternoon,False,True,False,False
+1244,12:44:00,12,12,44,PM,12:44 PM,Afternoon,False,True,False,False
+1245,12:45:00,12,12,45,PM,12:45 PM,Afternoon,False,True,False,False
+1246,12:46:00,12,12,46,PM,12:46 PM,Afternoon,False,True,False,False
+1247,12:47:00,12,12,47,PM,12:47 PM,Afternoon,False,True,False,False
+1248,12:48:00,12,12,48,PM,12:48 PM,Afternoon,False,True,False,False
+1249,12:49:00,12,12,49,PM,12:49 PM,Afternoon,False,True,False,False
+1250,12:50:00,12,12,50,PM,12:50 PM,Afternoon,False,True,False,False
+1251,12:51:00,12,12,51,PM,12:51 PM,Afternoon,False,True,False,False
+1252,12:52:00,12,12,52,PM,12:52 PM,Afternoon,False,True,False,False
+1253,12:53:00,12,12,53,PM,12:53 PM,Afternoon,False,True,False,False
+1254,12:54:00,12,12,54,PM,12:54 PM,Afternoon,False,True,False,False
+1255,12:55:00,12,12,55,PM,12:55 PM,Afternoon,False,True,False,False
+1256,12:56:00,12,12,56,PM,12:56 PM,Afternoon,False,True,False,False
+1257,12:57:00,12,12,57,PM,12:57 PM,Afternoon,False,True,False,False
+1258,12:58:00,12,12,58,PM,12:58 PM,Afternoon,False,True,False,False
+1259,12:59:00,12,12,59,PM,12:59 PM,Afternoon,False,True,False,False
+1300,13:00:00,13,1,0,PM,1:00 PM,Afternoon,False,True,False,False
+1301,13:01:00,13,1,1,PM,1:01 PM,Afternoon,False,True,False,False
+1302,13:02:00,13,1,2,PM,1:02 PM,Afternoon,False,True,False,False
+1303,13:03:00,13,1,3,PM,1:03 PM,Afternoon,False,True,False,False
+1304,13:04:00,13,1,4,PM,1:04 PM,Afternoon,False,True,False,False
+1305,13:05:00,13,1,5,PM,1:05 PM,Afternoon,False,True,False,False
+1306,13:06:00,13,1,6,PM,1:06 PM,Afternoon,False,True,False,False
+1307,13:07:00,13,1,7,PM,1:07 PM,Afternoon,False,True,False,False
+1308,13:08:00,13,1,8,PM,1:08 PM,Afternoon,False,True,False,False
+1309,13:09:00,13,1,9,PM,1:09 PM,Afternoon,False,True,False,False
+1310,13:10:00,13,1,10,PM,1:10 PM,Afternoon,False,True,False,False
+1311,13:11:00,13,1,11,PM,1:11 PM,Afternoon,False,True,False,False
+1312,13:12:00,13,1,12,PM,1:12 PM,Afternoon,False,True,False,False
+1313,13:13:00,13,1,13,PM,1:13 PM,Afternoon,False,True,False,False
+1314,13:14:00,13,1,14,PM,1:14 PM,Afternoon,False,True,False,False
+1315,13:15:00,13,1,15,PM,1:15 PM,Afternoon,False,True,False,False
+1316,13:16:00,13,1,16,PM,1:16 PM,Afternoon,False,True,False,False
+1317,13:17:00,13,1,17,PM,1:17 PM,Afternoon,False,True,False,False
+1318,13:18:00,13,1,18,PM,1:18 PM,Afternoon,False,True,False,False
+1319,13:19:00,13,1,19,PM,1:19 PM,Afternoon,False,True,False,False
+1320,13:20:00,13,1,20,PM,1:20 PM,Afternoon,False,True,False,False
+1321,13:21:00,13,1,21,PM,1:21 PM,Afternoon,False,True,False,False
+1322,13:22:00,13,1,22,PM,1:22 PM,Afternoon,False,True,False,False
+1323,13:23:00,13,1,23,PM,1:23 PM,Afternoon,False,True,False,False
+1324,13:24:00,13,1,24,PM,1:24 PM,Afternoon,False,True,False,False
+1325,13:25:00,13,1,25,PM,1:25 PM,Afternoon,False,True,False,False
+1326,13:26:00,13,1,26,PM,1:26 PM,Afternoon,False,True,False,False
+1327,13:27:00,13,1,27,PM,1:27 PM,Afternoon,False,True,False,False
+1328,13:28:00,13,1,28,PM,1:28 PM,Afternoon,False,True,False,False
+1329,13:29:00,13,1,29,PM,1:29 PM,Afternoon,False,True,False,False
+1330,13:30:00,13,1,30,PM,1:30 PM,Afternoon,False,True,False,False
+1331,13:31:00,13,1,31,PM,1:31 PM,Afternoon,False,True,False,False
+1332,13:32:00,13,1,32,PM,1:32 PM,Afternoon,False,True,False,False
+1333,13:33:00,13,1,33,PM,1:33 PM,Afternoon,False,True,False,False
+1334,13:34:00,13,1,34,PM,1:34 PM,Afternoon,False,True,False,False
+1335,13:35:00,13,1,35,PM,1:35 PM,Afternoon,False,True,False,False
+1336,13:36:00,13,1,36,PM,1:36 PM,Afternoon,False,True,False,False
+1337,13:37:00,13,1,37,PM,1:37 PM,Afternoon,False,True,False,False
+1338,13:38:00,13,1,38,PM,1:38 PM,Afternoon,False,True,False,False
+1339,13:39:00,13,1,39,PM,1:39 PM,Afternoon,False,True,False,False
+1340,13:40:00,13,1,40,PM,1:40 PM,Afternoon,False,True,False,False
+1341,13:41:00,13,1,41,PM,1:41 PM,Afternoon,False,True,False,False
+1342,13:42:00,13,1,42,PM,1:42 PM,Afternoon,False,True,False,False
+1343,13:43:00,13,1,43,PM,1:43 PM,Afternoon,False,True,False,False
+1344,13:44:00,13,1,44,PM,1:44 PM,Afternoon,False,True,False,False
+1345,13:45:00,13,1,45,PM,1:45 PM,Afternoon,False,True,False,False
+1346,13:46:00,13,1,46,PM,1:46 PM,Afternoon,False,True,False,False
+1347,13:47:00,13,1,47,PM,1:47 PM,Afternoon,False,True,False,False
+1348,13:48:00,13,1,48,PM,1:48 PM,Afternoon,False,True,False,False
+1349,13:49:00,13,1,49,PM,1:49 PM,Afternoon,False,True,False,False
+1350,13:50:00,13,1,50,PM,1:50 PM,Afternoon,False,True,False,False
+1351,13:51:00,13,1,51,PM,1:51 PM,Afternoon,False,True,False,False
+1352,13:52:00,13,1,52,PM,1:52 PM,Afternoon,False,True,False,False
+1353,13:53:00,13,1,53,PM,1:53 PM,Afternoon,False,True,False,False
+1354,13:54:00,13,1,54,PM,1:54 PM,Afternoon,False,True,False,False
+1355,13:55:00,13,1,55,PM,1:55 PM,Afternoon,False,True,False,False
+1356,13:56:00,13,1,56,PM,1:56 PM,Afternoon,False,True,False,False
+1357,13:57:00,13,1,57,PM,1:57 PM,Afternoon,False,True,False,False
+1358,13:58:00,13,1,58,PM,1:58 PM,Afternoon,False,True,False,False
+1359,13:59:00,13,1,59,PM,1:59 PM,Afternoon,False,True,False,False
+1400,14:00:00,14,2,0,PM,2:00 PM,Afternoon,False,True,False,False
+1401,14:01:00,14,2,1,PM,2:01 PM,Afternoon,False,True,False,False
+1402,14:02:00,14,2,2,PM,2:02 PM,Afternoon,False,True,False,False
+1403,14:03:00,14,2,3,PM,2:03 PM,Afternoon,False,True,False,False
+1404,14:04:00,14,2,4,PM,2:04 PM,Afternoon,False,True,False,False
+1405,14:05:00,14,2,5,PM,2:05 PM,Afternoon,False,True,False,False
+1406,14:06:00,14,2,6,PM,2:06 PM,Afternoon,False,True,False,False
+1407,14:07:00,14,2,7,PM,2:07 PM,Afternoon,False,True,False,False
+1408,14:08:00,14,2,8,PM,2:08 PM,Afternoon,False,True,False,False
+1409,14:09:00,14,2,9,PM,2:09 PM,Afternoon,False,True,False,False
+1410,14:10:00,14,2,10,PM,2:10 PM,Afternoon,False,True,False,False
+1411,14:11:00,14,2,11,PM,2:11 PM,Afternoon,False,True,False,False
+1412,14:12:00,14,2,12,PM,2:12 PM,Afternoon,False,True,False,False
+1413,14:13:00,14,2,13,PM,2:13 PM,Afternoon,False,True,False,False
+1414,14:14:00,14,2,14,PM,2:14 PM,Afternoon,False,True,False,False
+1415,14:15:00,14,2,15,PM,2:15 PM,Afternoon,False,True,False,False
+1416,14:16:00,14,2,16,PM,2:16 PM,Afternoon,False,True,False,False
+1417,14:17:00,14,2,17,PM,2:17 PM,Afternoon,False,True,False,False
+1418,14:18:00,14,2,18,PM,2:18 PM,Afternoon,False,True,False,False
+1419,14:19:00,14,2,19,PM,2:19 PM,Afternoon,False,True,False,False
+1420,14:20:00,14,2,20,PM,2:20 PM,Afternoon,False,True,False,False
+1421,14:21:00,14,2,21,PM,2:21 PM,Afternoon,False,True,False,False
+1422,14:22:00,14,2,22,PM,2:22 PM,Afternoon,False,True,False,False
+1423,14:23:00,14,2,23,PM,2:23 PM,Afternoon,False,True,False,False
+1424,14:24:00,14,2,24,PM,2:24 PM,Afternoon,False,True,False,False
+1425,14:25:00,14,2,25,PM,2:25 PM,Afternoon,False,True,False,False
+1426,14:26:00,14,2,26,PM,2:26 PM,Afternoon,False,True,False,False
+1427,14:27:00,14,2,27,PM,2:27 PM,Afternoon,False,True,False,False
+1428,14:28:00,14,2,28,PM,2:28 PM,Afternoon,False,True,False,False
+1429,14:29:00,14,2,29,PM,2:29 PM,Afternoon,False,True,False,False
+1430,14:30:00,14,2,30,PM,2:30 PM,Afternoon,False,True,False,False
+1431,14:31:00,14,2,31,PM,2:31 PM,Afternoon,False,True,False,False
+1432,14:32:00,14,2,32,PM,2:32 PM,Afternoon,False,True,False,False
+1433,14:33:00,14,2,33,PM,2:33 PM,Afternoon,False,True,False,False
+1434,14:34:00,14,2,34,PM,2:34 PM,Afternoon,False,True,False,False
+1435,14:35:00,14,2,35,PM,2:35 PM,Afternoon,False,True,False,False
+1436,14:36:00,14,2,36,PM,2:36 PM,Afternoon,False,True,False,False
+1437,14:37:00,14,2,37,PM,2:37 PM,Afternoon,False,True,False,False
+1438,14:38:00,14,2,38,PM,2:38 PM,Afternoon,False,True,False,False
+1439,14:39:00,14,2,39,PM,2:39 PM,Afternoon,False,True,False,False
+1440,14:40:00,14,2,40,PM,2:40 PM,Afternoon,False,True,False,False
+1441,14:41:00,14,2,41,PM,2:41 PM,Afternoon,False,True,False,False
+1442,14:42:00,14,2,42,PM,2:42 PM,Afternoon,False,True,False,False
+1443,14:43:00,14,2,43,PM,2:43 PM,Afternoon,False,True,False,False
+1444,14:44:00,14,2,44,PM,2:44 PM,Afternoon,False,True,False,False
+1445,14:45:00,14,2,45,PM,2:45 PM,Afternoon,False,True,False,False
+1446,14:46:00,14,2,46,PM,2:46 PM,Afternoon,False,True,False,False
+1447,14:47:00,14,2,47,PM,2:47 PM,Afternoon,False,True,False,False
+1448,14:48:00,14,2,48,PM,2:48 PM,Afternoon,False,True,False,False
+1449,14:49:00,14,2,49,PM,2:49 PM,Afternoon,False,True,False,False
+1450,14:50:00,14,2,50,PM,2:50 PM,Afternoon,False,True,False,False
+1451,14:51:00,14,2,51,PM,2:51 PM,Afternoon,False,True,False,False
+1452,14:52:00,14,2,52,PM,2:52 PM,Afternoon,False,True,False,False
+1453,14:53:00,14,2,53,PM,2:53 PM,Afternoon,False,True,False,False
+1454,14:54:00,14,2,54,PM,2:54 PM,Afternoon,False,True,False,False
+1455,14:55:00,14,2,55,PM,2:55 PM,Afternoon,False,True,False,False
+1456,14:56:00,14,2,56,PM,2:56 PM,Afternoon,False,True,False,False
+1457,14:57:00,14,2,57,PM,2:57 PM,Afternoon,False,True,False,False
+1458,14:58:00,14,2,58,PM,2:58 PM,Afternoon,False,True,False,False
+1459,14:59:00,14,2,59,PM,2:59 PM,Afternoon,False,True,False,False
+1500,15:00:00,15,3,0,PM,3:00 PM,Afternoon,False,True,False,False
+1501,15:01:00,15,3,1,PM,3:01 PM,Afternoon,False,True,False,False
+1502,15:02:00,15,3,2,PM,3:02 PM,Afternoon,False,True,False,False
+1503,15:03:00,15,3,3,PM,3:03 PM,Afternoon,False,True,False,False
+1504,15:04:00,15,3,4,PM,3:04 PM,Afternoon,False,True,False,False
+1505,15:05:00,15,3,5,PM,3:05 PM,Afternoon,False,True,False,False
+1506,15:06:00,15,3,6,PM,3:06 PM,Afternoon,False,True,False,False
+1507,15:07:00,15,3,7,PM,3:07 PM,Afternoon,False,True,False,False
+1508,15:08:00,15,3,8,PM,3:08 PM,Afternoon,False,True,False,False
+1509,15:09:00,15,3,9,PM,3:09 PM,Afternoon,False,True,False,False
+1510,15:10:00,15,3,10,PM,3:10 PM,Afternoon,False,True,False,False
+1511,15:11:00,15,3,11,PM,3:11 PM,Afternoon,False,True,False,False
+1512,15:12:00,15,3,12,PM,3:12 PM,Afternoon,False,True,False,False
+1513,15:13:00,15,3,13,PM,3:13 PM,Afternoon,False,True,False,False
+1514,15:14:00,15,3,14,PM,3:14 PM,Afternoon,False,True,False,False
+1515,15:15:00,15,3,15,PM,3:15 PM,Afternoon,False,True,False,False
+1516,15:16:00,15,3,16,PM,3:16 PM,Afternoon,False,True,False,False
+1517,15:17:00,15,3,17,PM,3:17 PM,Afternoon,False,True,False,False
+1518,15:18:00,15,3,18,PM,3:18 PM,Afternoon,False,True,False,False
+1519,15:19:00,15,3,19,PM,3:19 PM,Afternoon,False,True,False,False
+1520,15:20:00,15,3,20,PM,3:20 PM,Afternoon,False,True,False,False
+1521,15:21:00,15,3,21,PM,3:21 PM,Afternoon,False,True,False,False
+1522,15:22:00,15,3,22,PM,3:22 PM,Afternoon,False,True,False,False
+1523,15:23:00,15,3,23,PM,3:23 PM,Afternoon,False,True,False,False
+1524,15:24:00,15,3,24,PM,3:24 PM,Afternoon,False,True,False,False
+1525,15:25:00,15,3,25,PM,3:25 PM,Afternoon,False,True,False,False
+1526,15:26:00,15,3,26,PM,3:26 PM,Afternoon,False,True,False,False
+1527,15:27:00,15,3,27,PM,3:27 PM,Afternoon,False,True,False,False
+1528,15:28:00,15,3,28,PM,3:28 PM,Afternoon,False,True,False,False
+1529,15:29:00,15,3,29,PM,3:29 PM,Afternoon,False,True,False,False
+1530,15:30:00,15,3,30,PM,3:30 PM,Afternoon,False,True,False,False
+1531,15:31:00,15,3,31,PM,3:31 PM,Afternoon,False,True,False,False
+1532,15:32:00,15,3,32,PM,3:32 PM,Afternoon,False,True,False,False
+1533,15:33:00,15,3,33,PM,3:33 PM,Afternoon,False,True,False,False
+1534,15:34:00,15,3,34,PM,3:34 PM,Afternoon,False,True,False,False
+1535,15:35:00,15,3,35,PM,3:35 PM,Afternoon,False,True,False,False
+1536,15:36:00,15,3,36,PM,3:36 PM,Afternoon,False,True,False,False
+1537,15:37:00,15,3,37,PM,3:37 PM,Afternoon,False,True,False,False
+1538,15:38:00,15,3,38,PM,3:38 PM,Afternoon,False,True,False,False
+1539,15:39:00,15,3,39,PM,3:39 PM,Afternoon,False,True,False,False
+1540,15:40:00,15,3,40,PM,3:40 PM,Afternoon,False,True,False,False
+1541,15:41:00,15,3,41,PM,3:41 PM,Afternoon,False,True,False,False
+1542,15:42:00,15,3,42,PM,3:42 PM,Afternoon,False,True,False,False
+1543,15:43:00,15,3,43,PM,3:43 PM,Afternoon,False,True,False,False
+1544,15:44:00,15,3,44,PM,3:44 PM,Afternoon,False,True,False,False
+1545,15:45:00,15,3,45,PM,3:45 PM,Afternoon,False,True,False,False
+1546,15:46:00,15,3,46,PM,3:46 PM,Afternoon,False,True,False,False
+1547,15:47:00,15,3,47,PM,3:47 PM,Afternoon,False,True,False,False
+1548,15:48:00,15,3,48,PM,3:48 PM,Afternoon,False,True,False,False
+1549,15:49:00,15,3,49,PM,3:49 PM,Afternoon,False,True,False,False
+1550,15:50:00,15,3,50,PM,3:50 PM,Afternoon,False,True,False,False
+1551,15:51:00,15,3,51,PM,3:51 PM,Afternoon,False,True,False,False
+1552,15:52:00,15,3,52,PM,3:52 PM,Afternoon,False,True,False,False
+1553,15:53:00,15,3,53,PM,3:53 PM,Afternoon,False,True,False,False
+1554,15:54:00,15,3,54,PM,3:54 PM,Afternoon,False,True,False,False
+1555,15:55:00,15,3,55,PM,3:55 PM,Afternoon,False,True,False,False
+1556,15:56:00,15,3,56,PM,3:56 PM,Afternoon,False,True,False,False
+1557,15:57:00,15,3,57,PM,3:57 PM,Afternoon,False,True,False,False
+1558,15:58:00,15,3,58,PM,3:58 PM,Afternoon,False,True,False,False
+1559,15:59:00,15,3,59,PM,3:59 PM,Afternoon,False,True,False,False
+1600,16:00:00,16,4,0,PM,4:00 PM,Afternoon,False,True,False,False
+1601,16:01:00,16,4,1,PM,4:01 PM,Afternoon,False,True,False,False
+1602,16:02:00,16,4,2,PM,4:02 PM,Afternoon,False,True,False,False
+1603,16:03:00,16,4,3,PM,4:03 PM,Afternoon,False,True,False,False
+1604,16:04:00,16,4,4,PM,4:04 PM,Afternoon,False,True,False,False
+1605,16:05:00,16,4,5,PM,4:05 PM,Afternoon,False,True,False,False
+1606,16:06:00,16,4,6,PM,4:06 PM,Afternoon,False,True,False,False
+1607,16:07:00,16,4,7,PM,4:07 PM,Afternoon,False,True,False,False
+1608,16:08:00,16,4,8,PM,4:08 PM,Afternoon,False,True,False,False
+1609,16:09:00,16,4,9,PM,4:09 PM,Afternoon,False,True,False,False
+1610,16:10:00,16,4,10,PM,4:10 PM,Afternoon,False,True,False,False
+1611,16:11:00,16,4,11,PM,4:11 PM,Afternoon,False,True,False,False
+1612,16:12:00,16,4,12,PM,4:12 PM,Afternoon,False,True,False,False
+1613,16:13:00,16,4,13,PM,4:13 PM,Afternoon,False,True,False,False
+1614,16:14:00,16,4,14,PM,4:14 PM,Afternoon,False,True,False,False
+1615,16:15:00,16,4,15,PM,4:15 PM,Afternoon,False,True,False,False
+1616,16:16:00,16,4,16,PM,4:16 PM,Afternoon,False,True,False,False
+1617,16:17:00,16,4,17,PM,4:17 PM,Afternoon,False,True,False,False
+1618,16:18:00,16,4,18,PM,4:18 PM,Afternoon,False,True,False,False
+1619,16:19:00,16,4,19,PM,4:19 PM,Afternoon,False,True,False,False
+1620,16:20:00,16,4,20,PM,4:20 PM,Afternoon,False,True,False,False
+1621,16:21:00,16,4,21,PM,4:21 PM,Afternoon,False,True,False,False
+1622,16:22:00,16,4,22,PM,4:22 PM,Afternoon,False,True,False,False
+1623,16:23:00,16,4,23,PM,4:23 PM,Afternoon,False,True,False,False
+1624,16:24:00,16,4,24,PM,4:24 PM,Afternoon,False,True,False,False
+1625,16:25:00,16,4,25,PM,4:25 PM,Afternoon,False,True,False,False
+1626,16:26:00,16,4,26,PM,4:26 PM,Afternoon,False,True,False,False
+1627,16:27:00,16,4,27,PM,4:27 PM,Afternoon,False,True,False,False
+1628,16:28:00,16,4,28,PM,4:28 PM,Afternoon,False,True,False,False
+1629,16:29:00,16,4,29,PM,4:29 PM,Afternoon,False,True,False,False
+1630,16:30:00,16,4,30,PM,4:30 PM,Afternoon,False,True,False,False
+1631,16:31:00,16,4,31,PM,4:31 PM,Afternoon,False,True,False,False
+1632,16:32:00,16,4,32,PM,4:32 PM,Afternoon,False,True,False,False
+1633,16:33:00,16,4,33,PM,4:33 PM,Afternoon,False,True,False,False
+1634,16:34:00,16,4,34,PM,4:34 PM,Afternoon,False,True,False,False
+1635,16:35:00,16,4,35,PM,4:35 PM,Afternoon,False,True,False,False
+1636,16:36:00,16,4,36,PM,4:36 PM,Afternoon,False,True,False,False
+1637,16:37:00,16,4,37,PM,4:37 PM,Afternoon,False,True,False,False
+1638,16:38:00,16,4,38,PM,4:38 PM,Afternoon,False,True,False,False
+1639,16:39:00,16,4,39,PM,4:39 PM,Afternoon,False,True,False,False
+1640,16:40:00,16,4,40,PM,4:40 PM,Afternoon,False,True,False,False
+1641,16:41:00,16,4,41,PM,4:41 PM,Afternoon,False,True,False,False
+1642,16:42:00,16,4,42,PM,4:42 PM,Afternoon,False,True,False,False
+1643,16:43:00,16,4,43,PM,4:43 PM,Afternoon,False,True,False,False
+1644,16:44:00,16,4,44,PM,4:44 PM,Afternoon,False,True,False,False
+1645,16:45:00,16,4,45,PM,4:45 PM,Afternoon,False,True,False,False
+1646,16:46:00,16,4,46,PM,4:46 PM,Afternoon,False,True,False,False
+1647,16:47:00,16,4,47,PM,4:47 PM,Afternoon,False,True,False,False
+1648,16:48:00,16,4,48,PM,4:48 PM,Afternoon,False,True,False,False
+1649,16:49:00,16,4,49,PM,4:49 PM,Afternoon,False,True,False,False
+1650,16:50:00,16,4,50,PM,4:50 PM,Afternoon,False,True,False,False
+1651,16:51:00,16,4,51,PM,4:51 PM,Afternoon,False,True,False,False
+1652,16:52:00,16,4,52,PM,4:52 PM,Afternoon,False,True,False,False
+1653,16:53:00,16,4,53,PM,4:53 PM,Afternoon,False,True,False,False
+1654,16:54:00,16,4,54,PM,4:54 PM,Afternoon,False,True,False,False
+1655,16:55:00,16,4,55,PM,4:55 PM,Afternoon,False,True,False,False
+1656,16:56:00,16,4,56,PM,4:56 PM,Afternoon,False,True,False,False
+1657,16:57:00,16,4,57,PM,4:57 PM,Afternoon,False,True,False,False
+1658,16:58:00,16,4,58,PM,4:58 PM,Afternoon,False,True,False,False
+1659,16:59:00,16,4,59,PM,4:59 PM,Afternoon,False,True,False,False
+1700,17:00:00,17,5,0,PM,5:00 PM,Evening,False,False,True,False
+1701,17:01:00,17,5,1,PM,5:01 PM,Evening,False,False,True,False
+1702,17:02:00,17,5,2,PM,5:02 PM,Evening,False,False,True,False
+1703,17:03:00,17,5,3,PM,5:03 PM,Evening,False,False,True,False
+1704,17:04:00,17,5,4,PM,5:04 PM,Evening,False,False,True,False
+1705,17:05:00,17,5,5,PM,5:05 PM,Evening,False,False,True,False
+1706,17:06:00,17,5,6,PM,5:06 PM,Evening,False,False,True,False
+1707,17:07:00,17,5,7,PM,5:07 PM,Evening,False,False,True,False
+1708,17:08:00,17,5,8,PM,5:08 PM,Evening,False,False,True,False
+1709,17:09:00,17,5,9,PM,5:09 PM,Evening,False,False,True,False
+1710,17:10:00,17,5,10,PM,5:10 PM,Evening,False,False,True,False
+1711,17:11:00,17,5,11,PM,5:11 PM,Evening,False,False,True,False
+1712,17:12:00,17,5,12,PM,5:12 PM,Evening,False,False,True,False
+1713,17:13:00,17,5,13,PM,5:13 PM,Evening,False,False,True,False
+1714,17:14:00,17,5,14,PM,5:14 PM,Evening,False,False,True,False
+1715,17:15:00,17,5,15,PM,5:15 PM,Evening,False,False,True,False
+1716,17:16:00,17,5,16,PM,5:16 PM,Evening,False,False,True,False
+1717,17:17:00,17,5,17,PM,5:17 PM,Evening,False,False,True,False
+1718,17:18:00,17,5,18,PM,5:18 PM,Evening,False,False,True,False
+1719,17:19:00,17,5,19,PM,5:19 PM,Evening,False,False,True,False
+1720,17:20:00,17,5,20,PM,5:20 PM,Evening,False,False,True,False
+1721,17:21:00,17,5,21,PM,5:21 PM,Evening,False,False,True,False
+1722,17:22:00,17,5,22,PM,5:22 PM,Evening,False,False,True,False
+1723,17:23:00,17,5,23,PM,5:23 PM,Evening,False,False,True,False
+1724,17:24:00,17,5,24,PM,5:24 PM,Evening,False,False,True,False
+1725,17:25:00,17,5,25,PM,5:25 PM,Evening,False,False,True,False
+1726,17:26:00,17,5,26,PM,5:26 PM,Evening,False,False,True,False
+1727,17:27:00,17,5,27,PM,5:27 PM,Evening,False,False,True,False
+1728,17:28:00,17,5,28,PM,5:28 PM,Evening,False,False,True,False
+1729,17:29:00,17,5,29,PM,5:29 PM,Evening,False,False,True,False
+1730,17:30:00,17,5,30,PM,5:30 PM,Evening,False,False,True,False
+1731,17:31:00,17,5,31,PM,5:31 PM,Evening,False,False,True,False
+1732,17:32:00,17,5,32,PM,5:32 PM,Evening,False,False,True,False
+1733,17:33:00,17,5,33,PM,5:33 PM,Evening,False,False,True,False
+1734,17:34:00,17,5,34,PM,5:34 PM,Evening,False,False,True,False
+1735,17:35:00,17,5,35,PM,5:35 PM,Evening,False,False,True,False
+1736,17:36:00,17,5,36,PM,5:36 PM,Evening,False,False,True,False
+1737,17:37:00,17,5,37,PM,5:37 PM,Evening,False,False,True,False
+1738,17:38:00,17,5,38,PM,5:38 PM,Evening,False,False,True,False
+1739,17:39:00,17,5,39,PM,5:39 PM,Evening,False,False,True,False
+1740,17:40:00,17,5,40,PM,5:40 PM,Evening,False,False,True,False
+1741,17:41:00,17,5,41,PM,5:41 PM,Evening,False,False,True,False
+1742,17:42:00,17,5,42,PM,5:42 PM,Evening,False,False,True,False
+1743,17:43:00,17,5,43,PM,5:43 PM,Evening,False,False,True,False
+1744,17:44:00,17,5,44,PM,5:44 PM,Evening,False,False,True,False
+1745,17:45:00,17,5,45,PM,5:45 PM,Evening,False,False,True,False
+1746,17:46:00,17,5,46,PM,5:46 PM,Evening,False,False,True,False
+1747,17:47:00,17,5,47,PM,5:47 PM,Evening,False,False,True,False
+1748,17:48:00,17,5,48,PM,5:48 PM,Evening,False,False,True,False
+1749,17:49:00,17,5,49,PM,5:49 PM,Evening,False,False,True,False
+1750,17:50:00,17,5,50,PM,5:50 PM,Evening,False,False,True,False
+1751,17:51:00,17,5,51,PM,5:51 PM,Evening,False,False,True,False
+1752,17:52:00,17,5,52,PM,5:52 PM,Evening,False,False,True,False
+1753,17:53:00,17,5,53,PM,5:53 PM,Evening,False,False,True,False
+1754,17:54:00,17,5,54,PM,5:54 PM,Evening,False,False,True,False
+1755,17:55:00,17,5,55,PM,5:55 PM,Evening,False,False,True,False
+1756,17:56:00,17,5,56,PM,5:56 PM,Evening,False,False,True,False
+1757,17:57:00,17,5,57,PM,5:57 PM,Evening,False,False,True,False
+1758,17:58:00,17,5,58,PM,5:58 PM,Evening,False,False,True,False
+1759,17:59:00,17,5,59,PM,5:59 PM,Evening,False,False,True,False
+1800,18:00:00,18,6,0,PM,6:00 PM,Evening,False,False,True,False
+1801,18:01:00,18,6,1,PM,6:01 PM,Evening,False,False,True,False
+1802,18:02:00,18,6,2,PM,6:02 PM,Evening,False,False,True,False
+1803,18:03:00,18,6,3,PM,6:03 PM,Evening,False,False,True,False
+1804,18:04:00,18,6,4,PM,6:04 PM,Evening,False,False,True,False
+1805,18:05:00,18,6,5,PM,6:05 PM,Evening,False,False,True,False
+1806,18:06:00,18,6,6,PM,6:06 PM,Evening,False,False,True,False
+1807,18:07:00,18,6,7,PM,6:07 PM,Evening,False,False,True,False
+1808,18:08:00,18,6,8,PM,6:08 PM,Evening,False,False,True,False
+1809,18:09:00,18,6,9,PM,6:09 PM,Evening,False,False,True,False
+1810,18:10:00,18,6,10,PM,6:10 PM,Evening,False,False,True,False
+1811,18:11:00,18,6,11,PM,6:11 PM,Evening,False,False,True,False
+1812,18:12:00,18,6,12,PM,6:12 PM,Evening,False,False,True,False
+1813,18:13:00,18,6,13,PM,6:13 PM,Evening,False,False,True,False
+1814,18:14:00,18,6,14,PM,6:14 PM,Evening,False,False,True,False
+1815,18:15:00,18,6,15,PM,6:15 PM,Evening,False,False,True,False
+1816,18:16:00,18,6,16,PM,6:16 PM,Evening,False,False,True,False
+1817,18:17:00,18,6,17,PM,6:17 PM,Evening,False,False,True,False
+1818,18:18:00,18,6,18,PM,6:18 PM,Evening,False,False,True,False
+1819,18:19:00,18,6,19,PM,6:19 PM,Evening,False,False,True,False
+1820,18:20:00,18,6,20,PM,6:20 PM,Evening,False,False,True,False
+1821,18:21:00,18,6,21,PM,6:21 PM,Evening,False,False,True,False
+1822,18:22:00,18,6,22,PM,6:22 PM,Evening,False,False,True,False
+1823,18:23:00,18,6,23,PM,6:23 PM,Evening,False,False,True,False
+1824,18:24:00,18,6,24,PM,6:24 PM,Evening,False,False,True,False
+1825,18:25:00,18,6,25,PM,6:25 PM,Evening,False,False,True,False
+1826,18:26:00,18,6,26,PM,6:26 PM,Evening,False,False,True,False
+1827,18:27:00,18,6,27,PM,6:27 PM,Evening,False,False,True,False
+1828,18:28:00,18,6,28,PM,6:28 PM,Evening,False,False,True,False
+1829,18:29:00,18,6,29,PM,6:29 PM,Evening,False,False,True,False
+1830,18:30:00,18,6,30,PM,6:30 PM,Evening,False,False,True,False
+1831,18:31:00,18,6,31,PM,6:31 PM,Evening,False,False,True,False
+1832,18:32:00,18,6,32,PM,6:32 PM,Evening,False,False,True,False
+1833,18:33:00,18,6,33,PM,6:33 PM,Evening,False,False,True,False
+1834,18:34:00,18,6,34,PM,6:34 PM,Evening,False,False,True,False
+1835,18:35:00,18,6,35,PM,6:35 PM,Evening,False,False,True,False
+1836,18:36:00,18,6,36,PM,6:36 PM,Evening,False,False,True,False
+1837,18:37:00,18,6,37,PM,6:37 PM,Evening,False,False,True,False
+1838,18:38:00,18,6,38,PM,6:38 PM,Evening,False,False,True,False
+1839,18:39:00,18,6,39,PM,6:39 PM,Evening,False,False,True,False
+1840,18:40:00,18,6,40,PM,6:40 PM,Evening,False,False,True,False
+1841,18:41:00,18,6,41,PM,6:41 PM,Evening,False,False,True,False
+1842,18:42:00,18,6,42,PM,6:42 PM,Evening,False,False,True,False
+1843,18:43:00,18,6,43,PM,6:43 PM,Evening,False,False,True,False
+1844,18:44:00,18,6,44,PM,6:44 PM,Evening,False,False,True,False
+1845,18:45:00,18,6,45,PM,6:45 PM,Evening,False,False,True,False
+1846,18:46:00,18,6,46,PM,6:46 PM,Evening,False,False,True,False
+1847,18:47:00,18,6,47,PM,6:47 PM,Evening,False,False,True,False
+1848,18:48:00,18,6,48,PM,6:48 PM,Evening,False,False,True,False
+1849,18:49:00,18,6,49,PM,6:49 PM,Evening,False,False,True,False
+1850,18:50:00,18,6,50,PM,6:50 PM,Evening,False,False,True,False
+1851,18:51:00,18,6,51,PM,6:51 PM,Evening,False,False,True,False
+1852,18:52:00,18,6,52,PM,6:52 PM,Evening,False,False,True,False
+1853,18:53:00,18,6,53,PM,6:53 PM,Evening,False,False,True,False
+1854,18:54:00,18,6,54,PM,6:54 PM,Evening,False,False,True,False
+1855,18:55:00,18,6,55,PM,6:55 PM,Evening,False,False,True,False
+1856,18:56:00,18,6,56,PM,6:56 PM,Evening,False,False,True,False
+1857,18:57:00,18,6,57,PM,6:57 PM,Evening,False,False,True,False
+1858,18:58:00,18,6,58,PM,6:58 PM,Evening,False,False,True,False
+1859,18:59:00,18,6,59,PM,6:59 PM,Evening,False,False,True,False
+1900,19:00:00,19,7,0,PM,7:00 PM,Evening,False,False,True,False
+1901,19:01:00,19,7,1,PM,7:01 PM,Evening,False,False,True,False
+1902,19:02:00,19,7,2,PM,7:02 PM,Evening,False,False,True,False
+1903,19:03:00,19,7,3,PM,7:03 PM,Evening,False,False,True,False
+1904,19:04:00,19,7,4,PM,7:04 PM,Evening,False,False,True,False
+1905,19:05:00,19,7,5,PM,7:05 PM,Evening,False,False,True,False
+1906,19:06:00,19,7,6,PM,7:06 PM,Evening,False,False,True,False
+1907,19:07:00,19,7,7,PM,7:07 PM,Evening,False,False,True,False
+1908,19:08:00,19,7,8,PM,7:08 PM,Evening,False,False,True,False
+1909,19:09:00,19,7,9,PM,7:09 PM,Evening,False,False,True,False
+1910,19:10:00,19,7,10,PM,7:10 PM,Evening,False,False,True,False
+1911,19:11:00,19,7,11,PM,7:11 PM,Evening,False,False,True,False
+1912,19:12:00,19,7,12,PM,7:12 PM,Evening,False,False,True,False
+1913,19:13:00,19,7,13,PM,7:13 PM,Evening,False,False,True,False
+1914,19:14:00,19,7,14,PM,7:14 PM,Evening,False,False,True,False
+1915,19:15:00,19,7,15,PM,7:15 PM,Evening,False,False,True,False
+1916,19:16:00,19,7,16,PM,7:16 PM,Evening,False,False,True,False
+1917,19:17:00,19,7,17,PM,7:17 PM,Evening,False,False,True,False
+1918,19:18:00,19,7,18,PM,7:18 PM,Evening,False,False,True,False
+1919,19:19:00,19,7,19,PM,7:19 PM,Evening,False,False,True,False
+1920,19:20:00,19,7,20,PM,7:20 PM,Evening,False,False,True,False
+1921,19:21:00,19,7,21,PM,7:21 PM,Evening,False,False,True,False
+1922,19:22:00,19,7,22,PM,7:22 PM,Evening,False,False,True,False
+1923,19:23:00,19,7,23,PM,7:23 PM,Evening,False,False,True,False
+1924,19:24:00,19,7,24,PM,7:24 PM,Evening,False,False,True,False
+1925,19:25:00,19,7,25,PM,7:25 PM,Evening,False,False,True,False
+1926,19:26:00,19,7,26,PM,7:26 PM,Evening,False,False,True,False
+1927,19:27:00,19,7,27,PM,7:27 PM,Evening,False,False,True,False
+1928,19:28:00,19,7,28,PM,7:28 PM,Evening,False,False,True,False
+1929,19:29:00,19,7,29,PM,7:29 PM,Evening,False,False,True,False
+1930,19:30:00,19,7,30,PM,7:30 PM,Evening,False,False,True,False
+1931,19:31:00,19,7,31,PM,7:31 PM,Evening,False,False,True,False
+1932,19:32:00,19,7,32,PM,7:32 PM,Evening,False,False,True,False
+1933,19:33:00,19,7,33,PM,7:33 PM,Evening,False,False,True,False
+1934,19:34:00,19,7,34,PM,7:34 PM,Evening,False,False,True,False
+1935,19:35:00,19,7,35,PM,7:35 PM,Evening,False,False,True,False
+1936,19:36:00,19,7,36,PM,7:36 PM,Evening,False,False,True,False
+1937,19:37:00,19,7,37,PM,7:37 PM,Evening,False,False,True,False
+1938,19:38:00,19,7,38,PM,7:38 PM,Evening,False,False,True,False
+1939,19:39:00,19,7,39,PM,7:39 PM,Evening,False,False,True,False
+1940,19:40:00,19,7,40,PM,7:40 PM,Evening,False,False,True,False
+1941,19:41:00,19,7,41,PM,7:41 PM,Evening,False,False,True,False
+1942,19:42:00,19,7,42,PM,7:42 PM,Evening,False,False,True,False
+1943,19:43:00,19,7,43,PM,7:43 PM,Evening,False,False,True,False
+1944,19:44:00,19,7,44,PM,7:44 PM,Evening,False,False,True,False
+1945,19:45:00,19,7,45,PM,7:45 PM,Evening,False,False,True,False
+1946,19:46:00,19,7,46,PM,7:46 PM,Evening,False,False,True,False
+1947,19:47:00,19,7,47,PM,7:47 PM,Evening,False,False,True,False
+1948,19:48:00,19,7,48,PM,7:48 PM,Evening,False,False,True,False
+1949,19:49:00,19,7,49,PM,7:49 PM,Evening,False,False,True,False
+1950,19:50:00,19,7,50,PM,7:50 PM,Evening,False,False,True,False
+1951,19:51:00,19,7,51,PM,7:51 PM,Evening,False,False,True,False
+1952,19:52:00,19,7,52,PM,7:52 PM,Evening,False,False,True,False
+1953,19:53:00,19,7,53,PM,7:53 PM,Evening,False,False,True,False
+1954,19:54:00,19,7,54,PM,7:54 PM,Evening,False,False,True,False
+1955,19:55:00,19,7,55,PM,7:55 PM,Evening,False,False,True,False
+1956,19:56:00,19,7,56,PM,7:56 PM,Evening,False,False,True,False
+1957,19:57:00,19,7,57,PM,7:57 PM,Evening,False,False,True,False
+1958,19:58:00,19,7,58,PM,7:58 PM,Evening,False,False,True,False
+1959,19:59:00,19,7,59,PM,7:59 PM,Evening,False,False,True,False
+2000,20:00:00,20,8,0,PM,8:00 PM,Evening,False,False,True,False
+2001,20:01:00,20,8,1,PM,8:01 PM,Evening,False,False,True,False
+2002,20:02:00,20,8,2,PM,8:02 PM,Evening,False,False,True,False
+2003,20:03:00,20,8,3,PM,8:03 PM,Evening,False,False,True,False
+2004,20:04:00,20,8,4,PM,8:04 PM,Evening,False,False,True,False
+2005,20:05:00,20,8,5,PM,8:05 PM,Evening,False,False,True,False
+2006,20:06:00,20,8,6,PM,8:06 PM,Evening,False,False,True,False
+2007,20:07:00,20,8,7,PM,8:07 PM,Evening,False,False,True,False
+2008,20:08:00,20,8,8,PM,8:08 PM,Evening,False,False,True,False
+2009,20:09:00,20,8,9,PM,8:09 PM,Evening,False,False,True,False
+2010,20:10:00,20,8,10,PM,8:10 PM,Evening,False,False,True,False
+2011,20:11:00,20,8,11,PM,8:11 PM,Evening,False,False,True,False
+2012,20:12:00,20,8,12,PM,8:12 PM,Evening,False,False,True,False
+2013,20:13:00,20,8,13,PM,8:13 PM,Evening,False,False,True,False
+2014,20:14:00,20,8,14,PM,8:14 PM,Evening,False,False,True,False
+2015,20:15:00,20,8,15,PM,8:15 PM,Evening,False,False,True,False
+2016,20:16:00,20,8,16,PM,8:16 PM,Evening,False,False,True,False
+2017,20:17:00,20,8,17,PM,8:17 PM,Evening,False,False,True,False
+2018,20:18:00,20,8,18,PM,8:18 PM,Evening,False,False,True,False
+2019,20:19:00,20,8,19,PM,8:19 PM,Evening,False,False,True,False
+2020,20:20:00,20,8,20,PM,8:20 PM,Evening,False,False,True,False
+2021,20:21:00,20,8,21,PM,8:21 PM,Evening,False,False,True,False
+2022,20:22:00,20,8,22,PM,8:22 PM,Evening,False,False,True,False
+2023,20:23:00,20,8,23,PM,8:23 PM,Evening,False,False,True,False
+2024,20:24:00,20,8,24,PM,8:24 PM,Evening,False,False,True,False
+2025,20:25:00,20,8,25,PM,8:25 PM,Evening,False,False,True,False
+2026,20:26:00,20,8,26,PM,8:26 PM,Evening,False,False,True,False
+2027,20:27:00,20,8,27,PM,8:27 PM,Evening,False,False,True,False
+2028,20:28:00,20,8,28,PM,8:28 PM,Evening,False,False,True,False
+2029,20:29:00,20,8,29,PM,8:29 PM,Evening,False,False,True,False
+2030,20:30:00,20,8,30,PM,8:30 PM,Evening,False,False,True,False
+2031,20:31:00,20,8,31,PM,8:31 PM,Evening,False,False,True,False
+2032,20:32:00,20,8,32,PM,8:32 PM,Evening,False,False,True,False
+2033,20:33:00,20,8,33,PM,8:33 PM,Evening,False,False,True,False
+2034,20:34:00,20,8,34,PM,8:34 PM,Evening,False,False,True,False
+2035,20:35:00,20,8,35,PM,8:35 PM,Evening,False,False,True,False
+2036,20:36:00,20,8,36,PM,8:36 PM,Evening,False,False,True,False
+2037,20:37:00,20,8,37,PM,8:37 PM,Evening,False,False,True,False
+2038,20:38:00,20,8,38,PM,8:38 PM,Evening,False,False,True,False
+2039,20:39:00,20,8,39,PM,8:39 PM,Evening,False,False,True,False
+2040,20:40:00,20,8,40,PM,8:40 PM,Evening,False,False,True,False
+2041,20:41:00,20,8,41,PM,8:41 PM,Evening,False,False,True,False
+2042,20:42:00,20,8,42,PM,8:42 PM,Evening,False,False,True,False
+2043,20:43:00,20,8,43,PM,8:43 PM,Evening,False,False,True,False
+2044,20:44:00,20,8,44,PM,8:44 PM,Evening,False,False,True,False
+2045,20:45:00,20,8,45,PM,8:45 PM,Evening,False,False,True,False
+2046,20:46:00,20,8,46,PM,8:46 PM,Evening,False,False,True,False
+2047,20:47:00,20,8,47,PM,8:47 PM,Evening,False,False,True,False
+2048,20:48:00,20,8,48,PM,8:48 PM,Evening,False,False,True,False
+2049,20:49:00,20,8,49,PM,8:49 PM,Evening,False,False,True,False
+2050,20:50:00,20,8,50,PM,8:50 PM,Evening,False,False,True,False
+2051,20:51:00,20,8,51,PM,8:51 PM,Evening,False,False,True,False
+2052,20:52:00,20,8,52,PM,8:52 PM,Evening,False,False,True,False
+2053,20:53:00,20,8,53,PM,8:53 PM,Evening,False,False,True,False
+2054,20:54:00,20,8,54,PM,8:54 PM,Evening,False,False,True,False
+2055,20:55:00,20,8,55,PM,8:55 PM,Evening,False,False,True,False
+2056,20:56:00,20,8,56,PM,8:56 PM,Evening,False,False,True,False
+2057,20:57:00,20,8,57,PM,8:57 PM,Evening,False,False,True,False
+2058,20:58:00,20,8,58,PM,8:58 PM,Evening,False,False,True,False
+2059,20:59:00,20,8,59,PM,8:59 PM,Evening,False,False,True,False
+2100,21:00:00,21,9,0,PM,9:00 PM,Late Night,False,False,False,True
+2101,21:01:00,21,9,1,PM,9:01 PM,Late Night,False,False,False,True
+2102,21:02:00,21,9,2,PM,9:02 PM,Late Night,False,False,False,True
+2103,21:03:00,21,9,3,PM,9:03 PM,Late Night,False,False,False,True
+2104,21:04:00,21,9,4,PM,9:04 PM,Late Night,False,False,False,True
+2105,21:05:00,21,9,5,PM,9:05 PM,Late Night,False,False,False,True
+2106,21:06:00,21,9,6,PM,9:06 PM,Late Night,False,False,False,True
+2107,21:07:00,21,9,7,PM,9:07 PM,Late Night,False,False,False,True
+2108,21:08:00,21,9,8,PM,9:08 PM,Late Night,False,False,False,True
+2109,21:09:00,21,9,9,PM,9:09 PM,Late Night,False,False,False,True
+2110,21:10:00,21,9,10,PM,9:10 PM,Late Night,False,False,False,True
+2111,21:11:00,21,9,11,PM,9:11 PM,Late Night,False,False,False,True
+2112,21:12:00,21,9,12,PM,9:12 PM,Late Night,False,False,False,True
+2113,21:13:00,21,9,13,PM,9:13 PM,Late Night,False,False,False,True
+2114,21:14:00,21,9,14,PM,9:14 PM,Late Night,False,False,False,True
+2115,21:15:00,21,9,15,PM,9:15 PM,Late Night,False,False,False,True
+2116,21:16:00,21,9,16,PM,9:16 PM,Late Night,False,False,False,True
+2117,21:17:00,21,9,17,PM,9:17 PM,Late Night,False,False,False,True
+2118,21:18:00,21,9,18,PM,9:18 PM,Late Night,False,False,False,True
+2119,21:19:00,21,9,19,PM,9:19 PM,Late Night,False,False,False,True
+2120,21:20:00,21,9,20,PM,9:20 PM,Late Night,False,False,False,True
+2121,21:21:00,21,9,21,PM,9:21 PM,Late Night,False,False,False,True
+2122,21:22:00,21,9,22,PM,9:22 PM,Late Night,False,False,False,True
+2123,21:23:00,21,9,23,PM,9:23 PM,Late Night,False,False,False,True
+2124,21:24:00,21,9,24,PM,9:24 PM,Late Night,False,False,False,True
+2125,21:25:00,21,9,25,PM,9:25 PM,Late Night,False,False,False,True
+2126,21:26:00,21,9,26,PM,9:26 PM,Late Night,False,False,False,True
+2127,21:27:00,21,9,27,PM,9:27 PM,Late Night,False,False,False,True
+2128,21:28:00,21,9,28,PM,9:28 PM,Late Night,False,False,False,True
+2129,21:29:00,21,9,29,PM,9:29 PM,Late Night,False,False,False,True
+2130,21:30:00,21,9,30,PM,9:30 PM,Late Night,False,False,False,True
+2131,21:31:00,21,9,31,PM,9:31 PM,Late Night,False,False,False,True
+2132,21:32:00,21,9,32,PM,9:32 PM,Late Night,False,False,False,True
+2133,21:33:00,21,9,33,PM,9:33 PM,Late Night,False,False,False,True
+2134,21:34:00,21,9,34,PM,9:34 PM,Late Night,False,False,False,True
+2135,21:35:00,21,9,35,PM,9:35 PM,Late Night,False,False,False,True
+2136,21:36:00,21,9,36,PM,9:36 PM,Late Night,False,False,False,True
+2137,21:37:00,21,9,37,PM,9:37 PM,Late Night,False,False,False,True
+2138,21:38:00,21,9,38,PM,9:38 PM,Late Night,False,False,False,True
+2139,21:39:00,21,9,39,PM,9:39 PM,Late Night,False,False,False,True
+2140,21:40:00,21,9,40,PM,9:40 PM,Late Night,False,False,False,True
+2141,21:41:00,21,9,41,PM,9:41 PM,Late Night,False,False,False,True
+2142,21:42:00,21,9,42,PM,9:42 PM,Late Night,False,False,False,True
+2143,21:43:00,21,9,43,PM,9:43 PM,Late Night,False,False,False,True
+2144,21:44:00,21,9,44,PM,9:44 PM,Late Night,False,False,False,True
+2145,21:45:00,21,9,45,PM,9:45 PM,Late Night,False,False,False,True
+2146,21:46:00,21,9,46,PM,9:46 PM,Late Night,False,False,False,True
+2147,21:47:00,21,9,47,PM,9:47 PM,Late Night,False,False,False,True
+2148,21:48:00,21,9,48,PM,9:48 PM,Late Night,False,False,False,True
+2149,21:49:00,21,9,49,PM,9:49 PM,Late Night,False,False,False,True
+2150,21:50:00,21,9,50,PM,9:50 PM,Late Night,False,False,False,True
+2151,21:51:00,21,9,51,PM,9:51 PM,Late Night,False,False,False,True
+2152,21:52:00,21,9,52,PM,9:52 PM,Late Night,False,False,False,True
+2153,21:53:00,21,9,53,PM,9:53 PM,Late Night,False,False,False,True
+2154,21:54:00,21,9,54,PM,9:54 PM,Late Night,False,False,False,True
+2155,21:55:00,21,9,55,PM,9:55 PM,Late Night,False,False,False,True
+2156,21:56:00,21,9,56,PM,9:56 PM,Late Night,False,False,False,True
+2157,21:57:00,21,9,57,PM,9:57 PM,Late Night,False,False,False,True
+2158,21:58:00,21,9,58,PM,9:58 PM,Late Night,False,False,False,True
+2159,21:59:00,21,9,59,PM,9:59 PM,Late Night,False,False,False,True
+2200,22:00:00,22,10,0,PM,10:00 PM,Late Night,False,False,False,True
+2201,22:01:00,22,10,1,PM,10:01 PM,Late Night,False,False,False,True
+2202,22:02:00,22,10,2,PM,10:02 PM,Late Night,False,False,False,True
+2203,22:03:00,22,10,3,PM,10:03 PM,Late Night,False,False,False,True
+2204,22:04:00,22,10,4,PM,10:04 PM,Late Night,False,False,False,True
+2205,22:05:00,22,10,5,PM,10:05 PM,Late Night,False,False,False,True
+2206,22:06:00,22,10,6,PM,10:06 PM,Late Night,False,False,False,True
+2207,22:07:00,22,10,7,PM,10:07 PM,Late Night,False,False,False,True
+2208,22:08:00,22,10,8,PM,10:08 PM,Late Night,False,False,False,True
+2209,22:09:00,22,10,9,PM,10:09 PM,Late Night,False,False,False,True
+2210,22:10:00,22,10,10,PM,10:10 PM,Late Night,False,False,False,True
+2211,22:11:00,22,10,11,PM,10:11 PM,Late Night,False,False,False,True
+2212,22:12:00,22,10,12,PM,10:12 PM,Late Night,False,False,False,True
+2213,22:13:00,22,10,13,PM,10:13 PM,Late Night,False,False,False,True
+2214,22:14:00,22,10,14,PM,10:14 PM,Late Night,False,False,False,True
+2215,22:15:00,22,10,15,PM,10:15 PM,Late Night,False,False,False,True
+2216,22:16:00,22,10,16,PM,10:16 PM,Late Night,False,False,False,True
+2217,22:17:00,22,10,17,PM,10:17 PM,Late Night,False,False,False,True
+2218,22:18:00,22,10,18,PM,10:18 PM,Late Night,False,False,False,True
+2219,22:19:00,22,10,19,PM,10:19 PM,Late Night,False,False,False,True
+2220,22:20:00,22,10,20,PM,10:20 PM,Late Night,False,False,False,True
+2221,22:21:00,22,10,21,PM,10:21 PM,Late Night,False,False,False,True
+2222,22:22:00,22,10,22,PM,10:22 PM,Late Night,False,False,False,True
+2223,22:23:00,22,10,23,PM,10:23 PM,Late Night,False,False,False,True
+2224,22:24:00,22,10,24,PM,10:24 PM,Late Night,False,False,False,True
+2225,22:25:00,22,10,25,PM,10:25 PM,Late Night,False,False,False,True
+2226,22:26:00,22,10,26,PM,10:26 PM,Late Night,False,False,False,True
+2227,22:27:00,22,10,27,PM,10:27 PM,Late Night,False,False,False,True
+2228,22:28:00,22,10,28,PM,10:28 PM,Late Night,False,False,False,True
+2229,22:29:00,22,10,29,PM,10:29 PM,Late Night,False,False,False,True
+2230,22:30:00,22,10,30,PM,10:30 PM,Late Night,False,False,False,True
+2231,22:31:00,22,10,31,PM,10:31 PM,Late Night,False,False,False,True
+2232,22:32:00,22,10,32,PM,10:32 PM,Late Night,False,False,False,True
+2233,22:33:00,22,10,33,PM,10:33 PM,Late Night,False,False,False,True
+2234,22:34:00,22,10,34,PM,10:34 PM,Late Night,False,False,False,True
+2235,22:35:00,22,10,35,PM,10:35 PM,Late Night,False,False,False,True
+2236,22:36:00,22,10,36,PM,10:36 PM,Late Night,False,False,False,True
+2237,22:37:00,22,10,37,PM,10:37 PM,Late Night,False,False,False,True
+2238,22:38:00,22,10,38,PM,10:38 PM,Late Night,False,False,False,True
+2239,22:39:00,22,10,39,PM,10:39 PM,Late Night,False,False,False,True
+2240,22:40:00,22,10,40,PM,10:40 PM,Late Night,False,False,False,True
+2241,22:41:00,22,10,41,PM,10:41 PM,Late Night,False,False,False,True
+2242,22:42:00,22,10,42,PM,10:42 PM,Late Night,False,False,False,True
+2243,22:43:00,22,10,43,PM,10:43 PM,Late Night,False,False,False,True
+2244,22:44:00,22,10,44,PM,10:44 PM,Late Night,False,False,False,True
+2245,22:45:00,22,10,45,PM,10:45 PM,Late Night,False,False,False,True
+2246,22:46:00,22,10,46,PM,10:46 PM,Late Night,False,False,False,True
+2247,22:47:00,22,10,47,PM,10:47 PM,Late Night,False,False,False,True
+2248,22:48:00,22,10,48,PM,10:48 PM,Late Night,False,False,False,True
+2249,22:49:00,22,10,49,PM,10:49 PM,Late Night,False,False,False,True
+2250,22:50:00,22,10,50,PM,10:50 PM,Late Night,False,False,False,True
+2251,22:51:00,22,10,51,PM,10:51 PM,Late Night,False,False,False,True
+2252,22:52:00,22,10,52,PM,10:52 PM,Late Night,False,False,False,True
+2253,22:53:00,22,10,53,PM,10:53 PM,Late Night,False,False,False,True
+2254,22:54:00,22,10,54,PM,10:54 PM,Late Night,False,False,False,True
+2255,22:55:00,22,10,55,PM,10:55 PM,Late Night,False,False,False,True
+2256,22:56:00,22,10,56,PM,10:56 PM,Late Night,False,False,False,True
+2257,22:57:00,22,10,57,PM,10:57 PM,Late Night,False,False,False,True
+2258,22:58:00,22,10,58,PM,10:58 PM,Late Night,False,False,False,True
+2259,22:59:00,22,10,59,PM,10:59 PM,Late Night,False,False,False,True
+2300,23:00:00,23,11,0,PM,11:00 PM,Late Night,False,False,False,True
+2301,23:01:00,23,11,1,PM,11:01 PM,Late Night,False,False,False,True
+2302,23:02:00,23,11,2,PM,11:02 PM,Late Night,False,False,False,True
+2303,23:03:00,23,11,3,PM,11:03 PM,Late Night,False,False,False,True
+2304,23:04:00,23,11,4,PM,11:04 PM,Late Night,False,False,False,True
+2305,23:05:00,23,11,5,PM,11:05 PM,Late Night,False,False,False,True
+2306,23:06:00,23,11,6,PM,11:06 PM,Late Night,False,False,False,True
+2307,23:07:00,23,11,7,PM,11:07 PM,Late Night,False,False,False,True
+2308,23:08:00,23,11,8,PM,11:08 PM,Late Night,False,False,False,True
+2309,23:09:00,23,11,9,PM,11:09 PM,Late Night,False,False,False,True
+2310,23:10:00,23,11,10,PM,11:10 PM,Late Night,False,False,False,True
+2311,23:11:00,23,11,11,PM,11:11 PM,Late Night,False,False,False,True
+2312,23:12:00,23,11,12,PM,11:12 PM,Late Night,False,False,False,True
+2313,23:13:00,23,11,13,PM,11:13 PM,Late Night,False,False,False,True
+2314,23:14:00,23,11,14,PM,11:14 PM,Late Night,False,False,False,True
+2315,23:15:00,23,11,15,PM,11:15 PM,Late Night,False,False,False,True
+2316,23:16:00,23,11,16,PM,11:16 PM,Late Night,False,False,False,True
+2317,23:17:00,23,11,17,PM,11:17 PM,Late Night,False,False,False,True
+2318,23:18:00,23,11,18,PM,11:18 PM,Late Night,False,False,False,True
+2319,23:19:00,23,11,19,PM,11:19 PM,Late Night,False,False,False,True
+2320,23:20:00,23,11,20,PM,11:20 PM,Late Night,False,False,False,True
+2321,23:21:00,23,11,21,PM,11:21 PM,Late Night,False,False,False,True
+2322,23:22:00,23,11,22,PM,11:22 PM,Late Night,False,False,False,True
+2323,23:23:00,23,11,23,PM,11:23 PM,Late Night,False,False,False,True
+2324,23:24:00,23,11,24,PM,11:24 PM,Late Night,False,False,False,True
+2325,23:25:00,23,11,25,PM,11:25 PM,Late Night,False,False,False,True
+2326,23:26:00,23,11,26,PM,11:26 PM,Late Night,False,False,False,True
+2327,23:27:00,23,11,27,PM,11:27 PM,Late Night,False,False,False,True
+2328,23:28:00,23,11,28,PM,11:28 PM,Late Night,False,False,False,True
+2329,23:29:00,23,11,29,PM,11:29 PM,Late Night,False,False,False,True
+2330,23:30:00,23,11,30,PM,11:30 PM,Late Night,False,False,False,True
+2331,23:31:00,23,11,31,PM,11:31 PM,Late Night,False,False,False,True
+2332,23:32:00,23,11,32,PM,11:32 PM,Late Night,False,False,False,True
+2333,23:33:00,23,11,33,PM,11:33 PM,Late Night,False,False,False,True
+2334,23:34:00,23,11,34,PM,11:34 PM,Late Night,False,False,False,True
+2335,23:35:00,23,11,35,PM,11:35 PM,Late Night,False,False,False,True
+2336,23:36:00,23,11,36,PM,11:36 PM,Late Night,False,False,False,True
+2337,23:37:00,23,11,37,PM,11:37 PM,Late Night,False,False,False,True
+2338,23:38:00,23,11,38,PM,11:38 PM,Late Night,False,False,False,True
+2339,23:39:00,23,11,39,PM,11:39 PM,Late Night,False,False,False,True
+2340,23:40:00,23,11,40,PM,11:40 PM,Late Night,False,False,False,True
+2341,23:41:00,23,11,41,PM,11:41 PM,Late Night,False,False,False,True
+2342,23:42:00,23,11,42,PM,11:42 PM,Late Night,False,False,False,True
+2343,23:43:00,23,11,43,PM,11:43 PM,Late Night,False,False,False,True
+2344,23:44:00,23,11,44,PM,11:44 PM,Late Night,False,False,False,True
+2345,23:45:00,23,11,45,PM,11:45 PM,Late Night,False,False,False,True
+2346,23:46:00,23,11,46,PM,11:46 PM,Late Night,False,False,False,True
+2347,23:47:00,23,11,47,PM,11:47 PM,Late Night,False,False,False,True
+2348,23:48:00,23,11,48,PM,11:48 PM,Late Night,False,False,False,True
+2349,23:49:00,23,11,49,PM,11:49 PM,Late Night,False,False,False,True
+2350,23:50:00,23,11,50,PM,11:50 PM,Late Night,False,False,False,True
+2351,23:51:00,23,11,51,PM,11:51 PM,Late Night,False,False,False,True
+2352,23:52:00,23,11,52,PM,11:52 PM,Late Night,False,False,False,True
+2353,23:53:00,23,11,53,PM,11:53 PM,Late Night,False,False,False,True
+2354,23:54:00,23,11,54,PM,11:54 PM,Late Night,False,False,False,True
+2355,23:55:00,23,11,55,PM,11:55 PM,Late Night,False,False,False,True
+2356,23:56:00,23,11,56,PM,11:56 PM,Late Night,False,False,False,True
+2357,23:57:00,23,11,57,PM,11:57 PM,Late Night,False,False,False,True
+2358,23:58:00,23,11,58,PM,11:58 PM,Late Night,False,False,False,True
+2359,23:59:00,23,11,59,PM,11:59 PM,Late Night,False,False,False,True
