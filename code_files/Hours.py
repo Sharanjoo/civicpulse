@@ -5,6 +5,7 @@ else:
     BASE_DIR = Path(r"C:\Users\timot\Desktop")
 import requests
 import pandas as pd
+import sys
 import time
 import os
 from io import StringIO
@@ -155,6 +156,7 @@ print("Output file:", OUTPUT_FILE)
 print("Completed weeks file:", COMPLETED_WEEKS_FILE)
 
 total_rows_saved_this_run = 0
+had_error = False
 
 for week_start in tqdm(remaining_weeks, desc="Scraping weeks", unit="week"):
     try:
@@ -175,9 +177,13 @@ for week_start in tqdm(remaining_weeks, desc="Scraping weeks", unit="week"):
     except Exception as e:
         print(f"\nERROR on week starting {week_start}: {e}")
         print("Stopping safely. Rerun the script and it will skip completed weeks, except refresh weeks.")
+        had_error = True
         break
 
 print("\nDone or safely stopped.")
 print("Rows saved this run:", total_rows_saved_this_run)
 print("CSV file:", OUTPUT_FILE)
 print("Completed weeks file:", COMPLETED_WEEKS_FILE)
+
+if had_error:
+    sys.exit(1)

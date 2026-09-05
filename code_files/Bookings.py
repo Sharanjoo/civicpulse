@@ -5,6 +5,7 @@ else:
     BASE_DIR = Path(r"C:\Users\timot\Desktop")
 import requests
 import pandas as pd
+import sys
 import time
 import os
 from datetime import date, datetime, timedelta
@@ -165,6 +166,7 @@ progress_bar = tqdm(
 )
 
 total_rows_saved_this_run = 0
+had_error = False
 
 for current_date in progress_bar:
     try:
@@ -191,9 +193,13 @@ for current_date in progress_bar:
     except Exception as e:
         print(f"\nERROR on {current_date}: {e}")
         print("Stopping safely. Rerun the script and it will skip completed dates, except refresh dates.")
+        had_error = True
         break
 
 print("\nDone or safely stopped.")
 print("Rows saved this run:", total_rows_saved_this_run)
 print("CSV file:", OUTPUT_FILE)
 print("Completed dates file:", COMPLETED_DATES_FILE)
+
+if had_error:
+    sys.exit(1)
