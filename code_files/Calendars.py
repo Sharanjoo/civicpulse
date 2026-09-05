@@ -1,8 +1,10 @@
 from pathlib import Path
 if Path("/opt/airflow/project").exists():
-    BASE_DIR = Path("/opt/airflow/project")
+    PROJECT_ROOT = Path("/opt/airflow/project")
 else:
-    BASE_DIR = Path(r"C:\Users\timot\Desktop")
+    PROJECT_ROOT = Path(__file__).resolve().parents[1]
+SOURCES_DIR = PROJECT_ROOT / "data_sources"
+DATA_DIR = PROJECT_ROOT / "csv_txt_files"
 import pdfplumber
 import pandas as pd
 from datetime import datetime
@@ -10,19 +12,19 @@ from datetime import datetime
 PDFS = [
     {
         "academic_year": "2023-24",
-        "path": BASE_DIR / "Calendar23-24.pdf"
+        "path": SOURCES_DIR / "Calendar23-24.pdf"
     },
     {
         "academic_year": "2024-25",
-        "path": BASE_DIR / "Calendar24-25.pdf"
+        "path": SOURCES_DIR / "Calendar24-25.pdf"
     },
     {
         "academic_year": "2025-26",
-        "path": BASE_DIR / "Calendar25-26.pdf"
+        "path": SOURCES_DIR / "Calendar25-26.pdf"
     }
 ]
 
-OUTPUT_FILE = BASE_DIR / "sjsu_academic_calendar_raw.csv"
+OUTPUT_FILE = DATA_DIR / "sjsu_academic_calendar_raw.csv"
 
 rows = []
 

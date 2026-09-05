@@ -1,8 +1,9 @@
 from pathlib import Path
 if Path("/opt/airflow/project").exists():
-    BASE_DIR = Path("/opt/airflow/project")
+    PROJECT_ROOT = Path("/opt/airflow/project")
 else:
-    BASE_DIR = Path(r"C:\Users\timot\Desktop")
+    PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = PROJECT_ROOT / "csv_txt_files"
 import requests
 import pandas as pd
 import sys
@@ -28,8 +29,8 @@ END_DATE = TODAY + timedelta(days=4)
 REFRESH_START_DATE = TODAY - timedelta(days=1)
 REFRESH_END_DATE = TODAY + timedelta(days=4)
 
-OUTPUT_FILE = BASE_DIR / "sjlibrary_bookings.csv"
-COMPLETED_DATES_FILE = BASE_DIR / "sjlibrary_completed_dates.txt"
+OUTPUT_FILE = DATA_DIR / "sjlibrary_bookings.csv"
+COMPLETED_DATES_FILE = DATA_DIR / "sjlibrary_completed_dates.txt"
 
 REQUEST_SLEEP = 0.5
 DAY_SLEEP = 1.0

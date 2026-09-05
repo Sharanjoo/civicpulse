@@ -231,12 +231,12 @@ default_args = {
 }
 
 with DAG(
-    dag_id="group3_data226_project_pipeline",
+    dag_id="civicpulse_mlk_library_pipeline",
     default_args=default_args,
     start_date=datetime(2026, 4, 26),
     schedule="0 0 * * *",
     catchup=False,
-    tags=["data226", "etl", "warehouse"],
+    tags=["civicpulse", "data226", "etl", "warehouse"],
 ) as dag:
 
     create_tables_task = PythonOperator(
@@ -246,17 +246,17 @@ with DAG(
 
     extract_bookings = BashOperator(
         task_id="extract_bookings",
-        bash_command='python "/opt/airflow/project/Bookings.py"',
+        bash_command='python "/opt/airflow/project/code_files/Bookings.py"',
     )
 
     extract_hours = BashOperator(
         task_id="extract_hours",
-        bash_command='python "/opt/airflow/project/Hours.py"',
+        bash_command='python "/opt/airflow/project/code_files/Hours.py"',
     )
 
     transform_data = BashOperator(
         task_id="transform_data",
-        bash_command='python "/opt/airflow/project/Transform.py"',
+        bash_command='python "/opt/airflow/project/code_files/Transform.py"',
     )
 
     load_dim_date_task = PythonOperator(

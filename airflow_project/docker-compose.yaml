@@ -44,6 +44,8 @@
 #
 # Feel free to modify this file to suit your needs.
 ---
+name: civicpulse
+
 x-airflow-common:
   &airflow-common
   # In order to add custom dependencies or upgrade provider distributions you can use your extended image.
@@ -80,8 +82,12 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags
     - ${AIRFLOW_PROJ_DIR:-.}/logs:/opt/airflow/logs
     - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
-    - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins  
-    - C:/Users/timot/Desktop:/opt/airflow/project
+    - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
+    # Mounts the repo root (parent of this compose file's directory) so the
+    # DAG can reach code_files/, csv_txt_files/, data_sources/, and
+    # warehouse_output/ without a machine-specific path. Override PROJECT_ROOT
+    # in .env if you run compose from a different working directory.
+    - ${PROJECT_ROOT:-..}:/opt/airflow/project
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on

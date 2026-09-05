@@ -1,8 +1,9 @@
 from pathlib import Path
 if Path("/opt/airflow/project").exists():
-    BASE_DIR = Path("/opt/airflow/project")
+    PROJECT_ROOT = Path("/opt/airflow/project")
 else:
-    BASE_DIR = Path(r"C:\Users\timot\Desktop")
+    PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = PROJECT_ROOT / "csv_txt_files"
 import requests
 import pandas as pd
 import sys
@@ -21,8 +22,8 @@ HEADERS = {
     "referer": "https://library.sjsu.edu/library-hours"
 }
 
-OUTPUT_FILE = BASE_DIR / "sjlibrary_hours.csv"
-COMPLETED_WEEKS_FILE = BASE_DIR / "sjlibrary_completed_hours_weeks.txt"
+OUTPUT_FILE = DATA_DIR / "sjlibrary_hours.csv"
+COMPLETED_WEEKS_FILE = DATA_DIR / "sjlibrary_completed_hours_weeks.txt"
 
 REQUEST_SLEEP = 0.5
 

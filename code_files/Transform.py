@@ -1,18 +1,17 @@
 from pathlib import Path
 if Path("/opt/airflow/project").exists():
-    BASE_DIR = Path("/opt/airflow/project")
+    PROJECT_ROOT = Path("/opt/airflow/project")
 else:
-    BASE_DIR = Path(r"C:\Users\timot\Desktop")
+    PROJECT_ROOT = Path(__file__).resolve().parents[1]
 import pandas as pd
 from datetime import date, datetime, timedelta, time
-from pathlib import Path
 import re
 
-CALENDAR_RAW_FILE = BASE_DIR / "sjsu_academic_calendar_raw.csv"
-BOOKINGS_FILE = BASE_DIR / "sjlibrary_bookings.csv"
-HOURS_FILE = BASE_DIR / "sjlibrary_hours.csv"
-CALENDAR_FILE = BASE_DIR / "sjsu_academic_calendar_raw.csv"
-OUTPUT_DIR = BASE_DIR / "warehouse_output"
+DATA_DIR = PROJECT_ROOT / "csv_txt_files"
+CALENDAR_RAW_FILE = DATA_DIR / "sjsu_academic_calendar_raw.csv"
+BOOKINGS_FILE = DATA_DIR / "sjlibrary_bookings.csv"
+HOURS_FILE = DATA_DIR / "sjlibrary_hours.csv"
+OUTPUT_DIR = PROJECT_ROOT / "warehouse_output"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 FACT_BOOKINGS_OUT = OUTPUT_DIR / "fact_bookings.csv"
